@@ -8,6 +8,7 @@
 - [Official Resources](#official-resources)
 - [Tutorials](#tutorials)
 - [Blog Posts](#blog-posts)
+- [Podcasts](#podcasts)
 - [Community](#community)
 
 ## Official Resources
@@ -58,6 +59,10 @@
 - [tf_aws_puppet](https://github.com/terraform-community-modules/tf_aws_puppet) - Terraform module for pre-baked puppet masters and agents using external nodes driven by Tags on the EC2 instances.
 - [ecs-jenkins](https://github.com/shuaibiyy/ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
 
+
+## Podcasts
+
+- [Automating Infrastructure at HashiCorp with Mitchell Hashimoto](http://softwareengineeringdaily.com/2016/04/05/automating-infrastructure-hashicorp/)
 
 ## Community
 
