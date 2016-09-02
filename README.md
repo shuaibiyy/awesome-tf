@@ -58,6 +58,7 @@
 - [tf_aws_nixos_ami](https://github.com/terraform-community-modules/tf_aws_nixos_ami) - Launch NixOS Linux (http://nixos.org/) with Terraform.
 - [tf_aws_puppet](https://github.com/terraform-community-modules/tf_aws_puppet) - Terraform module for pre-baked puppet masters and agents using external nodes driven by Tags on the EC2 instances.
 - [ecs-jenkins](https://github.com/shuaibiyy/ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
+- [tf-ec2-snapshot-lambdas](https://github.com/benwtr/tf-ec2-snapshot-lambdas) - Creates Lambdas for taking EC2 EBS snapshots and purging them on a schedule.
 
 
 ## Podcasts
