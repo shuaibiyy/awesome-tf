@@ -1,6 +1,6 @@
 # Awesome Terraform
 
-> Curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/). 
+> Curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
 [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform-logo.png" align="right" width="100">](https://terraform.io)
 
 ## Table of Contents
@@ -26,6 +26,7 @@
 
 ## Blog Posts
 
+* [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/)
 * [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/)
 * [Deploying Discourse with Terraform](https://www.hashicorp.com/blog/terraform-discourse.html)
 * [How we deploy from Slack using Jenkins, Terraform, Docker and Ansible](https://medium.com/@levinotik/how-we-deploy-from-slack-using-jenkins-terraform-docker-and-ansible-4196b6856cdf)
@@ -36,6 +37,7 @@
 
 ## Community Modules
 
+* [segmentio/stack](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure with AWS, Docker, and ECS.
 * [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - A Terraform module for creating bastion host on AWS EC2.
 * [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - A Terraform module to provide only VPC (without subnets) in AWS.
 * [tf_aws_asg_elb](https://github.com/terraform-community-modules/tf_aws_asg_elb) - A Terraform Module for creating an Auto-Scaling Group and Launch Configuration for use with an Elastic Load Balancer.
@@ -49,20 +51,17 @@
 * [tf_aws_availability_zones](https://github.com/terraform-community-modules/tf_aws_availability_zones) - Lists of AZs your account has access to.
 * [tf_aws_virttype](https://github.com/terraform-community-modules/tf_aws_virttype) - Lookup the virtualization types (hvm or pv) supported for AWS instance types.
 * [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS.
-* [tf_aws_public_subnet](https://github.com/terraform-community-modules/tf_aws_public_subnet) - A Terraform module to manage public subnets in VPC in AWS.
-* [tf_aws_igw](https://github.com/terraform-community-modules/tf_aws_igw) - A Terraform module to provide an Internet Gateway in AWS.
-- [tf_aws_elb](https://github.com/terraform-community-modules/tf_aws_elb) - A Terraform module for creating Elastic Load Balancing instances.
-- [tf_aws_ec2_instance](https://github.com/terraform-community-modules/tf_aws_ec2_instance) - A Terraform module for creating EC2 Instances.
-- [tf_aws_fedora_ami](https://github.com/terraform-community-modules/tf_aws_fedora_ami) - Find AWS AMIs for Fedora/Project Atomic for use with Terraform.
-- [tf_aws_asg](https://github.com/terraform-community-modules/tf_aws_asg) - A Terraform module for creating an Auto-Scaling Group and Launch Configuration.
-- [tf_aws_nixos_ami](https://github.com/terraform-community-modules/tf_aws_nixos_ami) - Launch NixOS Linux (http://nixos.org/) with Terraform.
-- [tf_aws_puppet](https://github.com/terraform-community-modules/tf_aws_puppet) - Terraform module for pre-baked puppet masters and agents using external nodes driven by Tags on the EC2 instances.
-- [ecs-jenkins](https://github.com/shuaibiyy/ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
+* [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
 
+## Tools
 
-## Podcasts
+* [terraform-docs](https://github.com/segmentio/terraform-docs) - A quick utility to generate docs from terraform modules.
+* [topo](https://github.com/shuaibiyy/topo) - Helps with managing multiple provisions of the same Terraform scripts.
 
-- [Automating Infrastructure at HashiCorp with Mitchell Hashimoto](http://softwareengineeringdaily.com/2016/04/05/automating-infrastructure-hashicorp/)
+## Talks and Podcasts
+
+* [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul)
+* [Automating Infrastructure at HashiCorp with Mitchell Hashimoto](http://softwareengineeringdaily.com/2016/04/05/automating-infrastructure-hashicorp/)
 
 ## Community
 
