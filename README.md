@@ -56,7 +56,7 @@
 ## Tools
 
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - A quick utility to generate docs from terraform modules.
-* [topo](https://github.com/shuaibiyy/topo) - Helps with managing multiple provisions of the same Terraform scripts.
+* [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Helps with managing multiple provisions of the same Terraform scripts.
 
 ## Talks and Podcasts
 
