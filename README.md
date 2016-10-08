@@ -38,6 +38,7 @@
 ## Community Modules
 
 * [segmentio/stack](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure with AWS, Docker, and ECS.
+* [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
 * [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - A Terraform module for creating bastion host on AWS EC2.
 * [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - A Terraform module to provide only VPC (without subnets) in AWS.
 * [tf_aws_asg_elb](https://github.com/terraform-community-modules/tf_aws_asg_elb) - A Terraform Module for creating an Auto-Scaling Group and Launch Configuration for use with an Elastic Load Balancer.
@@ -51,12 +52,12 @@
 * [tf_aws_availability_zones](https://github.com/terraform-community-modules/tf_aws_availability_zones) - Lists of AZs your account has access to.
 * [tf_aws_virttype](https://github.com/terraform-community-modules/tf_aws_virttype) - Lookup the virtualization types (hvm or pv) supported for AWS instance types.
 * [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS.
-* [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
 
 ## Tools
 
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - A quick utility to generate docs from terraform modules.
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - A tool for managing multiple provisions of the same Terraform scripts.
+* [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
 
 ## Talks and Podcasts
 
