@@ -8,7 +8,7 @@
 - [Official Resources](#official-resources)
 - [Tutorials](#tutorials)
 - [Blog Posts](#blog-posts)
-- [Podcasts](#podcasts)
+- [Podcasts](#talks-and-podcasts)
 - [Community](#community)
 
 ## Official Resources
@@ -18,9 +18,8 @@
 
 ## Tutorials
 
-* [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/)
-* [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform Part II](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/)
-* [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform Part III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-iii/)
+* [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp)
+* [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I-III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/)
 * [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/)
 * [Write your own Terraform provider: Part 1](http://container-solutions.com/write-terraform-provider-part-1/)
 
