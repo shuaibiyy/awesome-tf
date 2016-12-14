@@ -6,8 +6,7 @@
 ## Table of Contents
 
 - [Official Resources](#official-resources)
-- [Tutorials](#tutorials)
-- [Blog Posts](#blog-posts)
+- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
 - [Podcasts](#talks-and-podcasts)
 - [Community](#community)
 
@@ -16,15 +15,12 @@
 * [Introduction to Terraform](https://www.terraform.io/intro/)
 * [Terraform Documentation](https://www.terraform.io/docs/)
 
-## Tutorials
+## Tutorials and Blog Posts
 
 * [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp)
 * [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I-III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/)
 * [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/)
 * [Write your own Terraform provider: Part 1](http://container-solutions.com/write-terraform-provider-part-1/)
-
-## Blog Posts
-
 * [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/)
 * [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/)
 * [Deploying Discourse with Terraform](https://www.hashicorp.com/blog/terraform-discourse.html)
@@ -57,6 +53,7 @@
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - A quick utility to generate docs from terraform modules.
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - A tool for managing multiple provisions of the same Terraform scripts.
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
+* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
 
 ## Talks and Podcasts
 
