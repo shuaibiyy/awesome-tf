@@ -7,6 +7,8 @@
 
 - [Official Resources](#official-resources)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+- [Community Modules](#community-modules)
+- [Tools](#tools)
 - [Podcasts](#talks-and-podcasts)
 - [Community](#community)
 
@@ -54,6 +56,7 @@
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - A tool for managing multiple provisions of the same Terraform scripts.
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
+* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
 
 ## Talks and Podcasts
 
@@ -64,6 +67,7 @@
 
 * [Terraform Community Modules](https://github.com/terraform-community-modules)
 * [Terraform Google Group](https://groups.google.com/forum/#!forum/terraform-tool)
+* [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 
 ## License
 
