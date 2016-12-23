@@ -53,6 +53,7 @@
 ## Tools
 
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - A quick utility to generate docs from terraform modules.
+* [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - A tool for managing multiple provisions of the same Terraform scripts.
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
