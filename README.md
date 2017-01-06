@@ -37,6 +37,7 @@
 * [segmentio/stack](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure with AWS, Docker, and ECS.
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
 * [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - A Terraform module for creating bastion host on AWS EC2.
+* [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Terraform template to create static website on AWS S3 & Cloudfront based on variables.
 * [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - A Terraform module to provide only VPC (without subnets) in AWS.
 * [tf_aws_asg_elb](https://github.com/terraform-community-modules/tf_aws_asg_elb) - A Terraform Module for creating an Auto-Scaling Group and Launch Configuration for use with an Elastic Load Balancer.
 * [tf_aws_availability_zones_cfn](https://github.com/terraform-community-modules/tf_aws_availability_zones_cfn) - Get availability zones for your AWS region/account from Cloudformation.
