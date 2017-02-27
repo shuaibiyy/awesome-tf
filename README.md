@@ -50,6 +50,7 @@
 * [tf_aws_availability_zones](https://github.com/terraform-community-modules/tf_aws_availability_zones) - Lists of AZs your account has access to.
 * [tf_aws_virttype](https://github.com/terraform-community-modules/tf_aws_virttype) - Lookup the virtualization types (hvm or pv) supported for AWS instance types.
 * [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS.
+* [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) - Terraform module for a rancher server on digitalocean.
 
 ## Tools
 
