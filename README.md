@@ -65,6 +65,7 @@
 
 * [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul)
 * [Automating Infrastructure at HashiCorp with Mitchell Hashimoto](http://softwareengineeringdaily.com/2016/04/05/automating-infrastructure-hashicorp/)
+* [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY)
 
 ## Community
 
