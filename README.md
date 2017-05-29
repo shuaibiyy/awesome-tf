@@ -6,6 +6,7 @@
 ## Table of Contents
 
 - [Official Resources](#official-resources)
+- [Books](#books)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
 - [Community Modules](#community-modules)
 - [Tools](#tools)
@@ -16,6 +17,11 @@
 
 * [Introduction to Terraform](https://www.terraform.io/intro/)
 * [Terraform Documentation](https://www.terraform.io/docs/)
+
+## Books
+
+* [Terraform: Up & Running](http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform)
+* [The Terraform Book](https://terraformbook.com/)
 
 ## Tutorials and Blog Posts
 
