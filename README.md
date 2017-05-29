@@ -1,9 +1,10 @@
-# Awesome Terraform
+# Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/). Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) are welcome!
+> A curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
 [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
+Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) are welcome!
 
-## Table of Contents
+## Contents
 
 - [Official Resources](#official-resources)
 - [Books](#books)
