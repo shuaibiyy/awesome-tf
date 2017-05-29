@@ -1,7 +1,7 @@
 # Awesome Terraform
 
 > Curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
-[<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform-logo.png" align="right" width="100">](https://terraform.io)
+[<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 
 ## Table of Contents
 
