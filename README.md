@@ -1,6 +1,6 @@
 # Awesome Terraform
 
-> Curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
+Curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/). Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) are welcome!
 [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 
 ## Table of Contents
