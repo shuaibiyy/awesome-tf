@@ -18,6 +18,13 @@ Curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
 * [Introduction to Terraform](https://www.terraform.io/intro/)
 * [Terraform Documentation](https://www.terraform.io/docs/)
 
+## Community
+
+* [Terraform Google Group](https://groups.google.com/forum/#!forum/terraform-tool)
+* [Terraform Gitter](https://gitter.im/hashicorp-terraform)
+* [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
+* [Terraform Community Modules](https://github.com/terraform-community-modules)
+
 ## Books
 
 * [Terraform: Up & Running](http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform)
@@ -73,12 +80,6 @@ Curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
 * [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul)
 * [Automating Infrastructure at HashiCorp with Mitchell Hashimoto](http://softwareengineeringdaily.com/2016/04/05/automating-infrastructure-hashicorp/)
 * [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY)
-
-## Community
-
-* [Terraform Community Modules](https://github.com/terraform-community-modules)
-* [Terraform Google Group](https://groups.google.com/forum/#!forum/terraform-tool)
-* [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 
 ## License
 
