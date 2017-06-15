@@ -30,6 +30,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 * [Terraform: Up & Running](http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform)
 * [The Terraform Book](https://terraformbook.com/)
+* [Getting Started with Terraform](https://www.amazon.com/Getting-Started-Terraform-Kirill-Shirinkin/dp/1786465108/)
 
 ## Tutorials and Blog Posts
 
