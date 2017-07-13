@@ -82,6 +82,18 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul)
 * [Automating Infrastructure at HashiCorp with Mitchell Hashimoto](http://softwareengineeringdaily.com/2016/04/05/automating-infrastructure-hashicorp/)
 * [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY)
+* [Evolving Your Infrastructure with Terraform](https://www.youtube.com/watch?v=wgzgVm7Sqlk)
+* [Going Multi-Cloud with Terraform and Nomad](https://www.youtube.com/watch?v=e42A4aBZUkQ)
+* [Running a Terraform Environment at Scale](https://www.youtube.com/watch?v=3JVGSq7QIS0)
+* [Terraforming the Composable World](https://www.youtube.com/watch?v=cHrOXPatFeg)
+* [State of Terraform Providerland](https://www.youtube.com/watch?v=ar1PF5iDtbg)
+* [Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs)
+* [Terraform Modules and Continuous Deployments](https://www.youtube.com/watch?v=tEvtgaoFAIs)
+* [Terraform At Scale](https://www.youtube.com/watch?v=RldRDryLiXs)
+* [Production ChaosMonkey with Terraform](https://www.youtube.com/watch?v=CPI6W3LK0-g)
+* [Templating your Terraform](https://www.youtube.com/watch?v=83G_7y5RIts)
+* [Terraform w/ Lee Trout](https://www.youtube.com/watch?v=p2ESyuqPw1A)
+* [Using Terraform to Build a Hybrid Cloud](https://www.youtube.com/watch?v=adzqsywrJKk)
 
 ## License
 
