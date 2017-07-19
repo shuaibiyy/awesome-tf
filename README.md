@@ -47,6 +47,9 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Using modules in Terraform](http://www.avitzurel.com/blog/2016/01/05/using-modules-in-terraform/)
 * [Terraform Modules for Fun and Profit](http://blog.lusis.org/blog/2015/10/12/terraform-modules-for-fun-and-profit/)
 * [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1)
+* [Terraform, VPC, and why you want a tfstate file per env](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/)
+* [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/)
+
 
 ## Community Modules
 
