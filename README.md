@@ -79,6 +79,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
+* [terraform-import-as-hcl](https://gitlab.com/nowaker/terraform-import-as-hcl) - This script imports a Terraform resource into `.tfstate` AND creates an HCL resource definition in `.tf` file.
 
 ## Talks and Podcasts
 
