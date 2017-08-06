@@ -73,6 +73,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Tools
 
+* [Atlantis](https://github.com/hootsuite/atlantis) - A unified workflow for collaborating on Terraform through GitHub.
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - A quick utility to generate docs from terraform modules.
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - A tool for managing multiple provisions of the same Terraform scripts.
