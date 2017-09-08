@@ -6,13 +6,13 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Books](#books)
-- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
-- [Community Modules](#community-modules)
-- [Tools](#tools)
-- [Podcasts](#talks-and-podcasts)
-- [Community](#community)
+* [Official Resources](#official-resources)
+* [Books](#books)
+* [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+* [Community Modules](#community-modules)
+* [Tools](#tools)
+* [Podcasts](#talks-and-podcasts)
+* [Community](#community)
 
 ## Official Resources
 
@@ -49,7 +49,6 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1)
 * [Terraform, VPC, and why you want a tfstate file per env](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/)
 * [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/)
-
 
 ## Community Modules
 
