@@ -6,13 +6,13 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Books](#books)
-- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
-- [Community Modules](#community-modules)
-- [Tools](#tools)
-- [Podcasts](#talks-and-podcasts)
-- [Community](#community)
+* [Official Resources](#official-resources)
+* [Books](#books)
+* [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+* [Community Modules](#community-modules)
+* [Tools](#tools)
+* [Podcasts](#talks-and-podcasts)
+* [Community](#community)
 
 ## Official Resources
 
@@ -50,7 +50,6 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Terraform, VPC, and why you want a tfstate file per env](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/)
 * [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/)
 
-
 ## Community Modules
 
 * [segmentio/stack](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure with AWS, Docker, and ECS.
@@ -80,6 +79,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
+* [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv.
 
 ## Talks and Podcasts
 
