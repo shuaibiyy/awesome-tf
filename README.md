@@ -50,23 +50,22 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ## Community Modules
 
-* [segmentio/stack](https://github.com/segmentio/stack) - A set of modules for configuring production infrastructure with AWS, Docker, and ECS.
+* [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
-* [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - A module for creating bastion host on AWS EC2.
-* [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Terraform template to create static website on AWS S3 & Cloudfront based on variables.
-* [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - A module to provide only VPC (without subnets) in AWS.
-* [tf_aws_asg_elb](https://github.com/terraform-community-modules/tf_aws_asg_elb) - A Module for creating an Auto-Scaling Group and Launch Configuration for use with an Elastic Load Balancer.
-* [tf_aws_availability_zones_cfn](https://github.com/terraform-community-modules/tf_aws_availability_zones_cfn) - Get availability zones for your AWS region/account from Cloudformation.
+* [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2.
+* [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
+* [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - Provides only VPC (without subnets) in AWS.
+* [tf_aws_asg_elb](https://github.com/terraform-community-modules/tf_aws_asg_elb) - Creates Auto-Scaling Groups and Launch Configurations for use with an Elastic Load Balancer.
+* [tf_aws_availability_zones_cfn](https://github.com/terraform-community-modules/tf_aws_availability_zones_cfn) - Gets availability zones for your AWS region/account from Cloudformation.
 * [tf_aws_ubuntu_ami](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - Easy way to lookup Ubuntu AMIs with Terraform.
-* [tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - A module with a collection of common security group settings.
+* [tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - A collection of common security group settings.
 * [tf_aws_coreos_ami](https://github.com/terraform-community-modules/tf_aws_coreos_ami) - An easy way to lookup CoreOS AMIs with terraform.
-* [tf_aws_private_subnet_nat_gateway](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - A module to create private subnets with NAT Gateway in AWS.
-* [tf_aws_rds](https://github.com/terraform-community-modules/tf_aws_rds) - A Template for RDS.
-* [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - A module to provide a VPC in AWS.
-* [tf_aws_availability_zones](https://github.com/terraform-community-modules/tf_aws_availability_zones) - Lists of AZs your account has access to.
-* [tf_aws_virttype](https://github.com/terraform-community-modules/tf_aws_virttype) - Lookup the virtualization types (hvm or pv) supported for AWS instance types.
+* [tf_aws_private_subnet_nat_gateway](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - Creates private subnets with NAT Gateway in AWS.
+* [tf_aws_rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS.
+* [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS.
+* [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS.
 * [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS.
-* [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) - Module for a rancher server on digitalocean.
+* [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) - A rancher server on digitalocean.
 
 ## Tools
 
