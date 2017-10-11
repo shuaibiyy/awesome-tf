@@ -27,6 +27,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 * [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 * [Terraform Community Modules](https://github.com/terraform-community-modules)
+* [Terraform Module Registry](https://registry.terraform.io/)
 
 ## Books
 
@@ -49,6 +50,8 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 
 ## Community Modules
+
+For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
 * [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
