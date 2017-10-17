@@ -93,6 +93,12 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Terraform w/ Lee Trout](https://www.youtube.com/watch?v=p2ESyuqPw1A) - Focuses on development patterns and how to effectively structure Terraform code.
 * [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) - Provisioning hybrid cloud infrastructure using Terraform.
 
+## Editors Plugins
+
+* [Vim-Terraform](https://github.com/hashivim/vim-terraform)
+* [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
+* [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
