@@ -27,12 +27,14 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 * [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 * [Terraform Community Modules](https://github.com/terraform-community-modules)
+* [Terraform Module Registry](https://registry.terraform.io/)
 
 ## Books
 
 * [Terraform: Up & Running](http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform)
 * [The Terraform Book](https://terraformbook.com/)
 * [Getting Started with Terraform](https://www.amazon.com/Getting-Started-Terraform-Kirill-Shirinkin/dp/1786465108/)
+* [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
 
 ## Tutorials and Blog Posts
 
@@ -47,8 +49,11 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - Beginner tutorial with a focus on using Terraform to provision an EC2 instance.
 * [Terraform, VPC, and why you want a tfstate file per env](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/) - Some gotchas surrounding using Terraform in large projects with multiple environments and how to avoid them.
 * [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
+* [Using Pipelines to Manage Environments with Infrastructure as Code](https://medium.com/@kief/https-medium-com-kief-using-pipelines-to-manage-environments-with-infrastructure-as-code-b37285a1cbf5) - Explains different approaches for building a pipeline to handle infrastructure changes moving from one environment to the next.
 
 ## Community Modules
+
+For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
 * [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
