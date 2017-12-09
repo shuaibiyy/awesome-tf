@@ -82,6 +82,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
 * [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv.
+* [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
+
 
 ## Talks
 
