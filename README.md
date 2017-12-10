@@ -106,6 +106,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [Vim-Terraform](https://github.com/hashivim/vim-terraform)
 * [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
+* [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode)
 
 ## License
 
