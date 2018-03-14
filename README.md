@@ -73,6 +73,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS.
 * [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS.
 * [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) - Rancher server on digitalocean.
+* [terraform-aws-ecr](https://github.com/cloudposse/terraform-aws-ecr) - Manage Docker container registries on AWS ECR.
 
 ## Tools
 
