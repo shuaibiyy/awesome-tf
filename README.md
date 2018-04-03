@@ -29,6 +29,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 * [Terraform Community Modules](https://github.com/terraform-community-modules)
 * [Terraform Module Registry](https://registry.terraform.io/)
+* [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf)
 
 ## Books
 
