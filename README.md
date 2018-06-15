@@ -92,6 +92,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv.
 * [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
 * [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
+* [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+* [tgf](https://github.com/coveo/tgf) - A Terragrunt frontend that allow execution of Terragrunt/Terraform through Docker
 
 
 ## Talks
