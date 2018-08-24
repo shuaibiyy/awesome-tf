@@ -95,7 +95,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 * [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 * [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers.
-
+* [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - BDD Testing for Terraform Files.
 
 ## Talks
 
