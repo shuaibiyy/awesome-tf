@@ -96,6 +96,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Providers
 
+* [terraform-prodiver-linode](https://github.com/btobolaski/terraform-provider-linode) - A terraform plugin for linode
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
 
 ## Testing
