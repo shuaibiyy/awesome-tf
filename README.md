@@ -21,6 +21,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 * [Introduction to Terraform](https://www.terraform.io/intro/)
 * [Terraform Documentation](https://www.terraform.io/docs/)
+* [Hashicorp Terraform Blog](https://www.hashicorp.com/blog/category/terraform)
 
 ## Community
 
@@ -58,44 +59,53 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
-* [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
-* [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
-* [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2.
-* [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
-* [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - Provides only VPC (without subnets) in AWS.
-* [tf_aws_asg_elb](https://github.com/terraform-community-modules/tf_aws_asg_elb) - Creates Auto-Scaling Groups and Launch Configurations for use with an Elastic Load Balancer.
-* [tf_aws_availability_zones_cfn](https://github.com/terraform-community-modules/tf_aws_availability_zones_cfn) - Gets availability zones for your AWS region/account from Cloudformation.
-* [tf_aws_ubuntu_ami](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - Easy way to lookup Ubuntu AMIs with Terraform.
-* [tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - Collection of common security group settings.
-* [tf_aws_coreos_ami](https://github.com/terraform-community-modules/tf_aws_coreos_ami) - Easy way to lookup CoreOS AMIs with terraform.
-* [tf_aws_private_subnet_nat_gateway](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - Creates private subnets with NAT Gateway in AWS.
-* [tf_aws_rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS.
-* [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS.
-* [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS.
-* [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS.
 * [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) - Rancher server on digitalocean.
+* [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
 * [terraform-aws-ecr](https://github.com/cloudposse/terraform-aws-ecr) - Manages Docker container registries on AWS ECR.
 * [terraform-aws-efs](https://github.com/cloudposse/terraform-aws-efs) - Defines an EFS Filesystem.
-* [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - Automatically Generate SSH Key Pairs (Public/Private Keys).
 * [terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack.
+* [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - Automatically Generate SSH Key Pairs (Public/Private Keys).
+* [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS.
+* [terraform-aws-ssh-bastion-service](https://github.com/joshuamkite/terraform-aws-ssh-bastion-service) - Terraform plan to deploy ssh bastion as a stateless service on AWS
+* [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - Provisions Jenkins on AWS ECS using Terraform.
+* [terraform-google-project-factory](https://github.com/terraform-google-modules/terraform-google-project-factory) - Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.
+* [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
+* [tf_aws_asg_elb](https://github.com/terraform-community-modules/tf_aws_asg_elb) - Creates Auto-Scaling Groups and Launch Configurations for use with an Elastic Load Balancer.
+* [tf_aws_availability_zones_cfn](https://github.com/terraform-community-modules/tf_aws_availability_zones_cfn) - Gets availability zones for your AWS region/account from Cloudformation.
+* [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2.
+* [tf_aws_coreos_ami](https://github.com/terraform-community-modules/tf_aws_coreos_ami) - Easy way to lookup CoreOS AMIs with terraform.
+* [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) - NAT instances for AWS.
+* [tf_aws_private_subnet_nat_gateway](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - Creates private subnets with NAT Gateway in AWS.
+* [tf_aws_rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - Creates RDS resources on AWS.
+* [tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - Collection of common security group settings.
+* [tf_aws_ubuntu_ami](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - Easy way to lookup Ubuntu AMIs with Terraform.
+* [tf_aws_vpc](https://github.com/terraform-community-modules/tf_aws_vpc) - Provides VPCs in AWS.
+* [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - Provides only VPC (without subnets) in AWS.
 
 ## Tools
 
-* [Atlantis](https://github.com/hootsuite/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
-* [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform.
-* [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules.
-* [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
-* [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
+* [anthology](https://github.com/erikvanbrakel/anthology) - A private Terraform registry implementation as an alternative to the official registry.
+* [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
+* [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
+* [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
+* [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls.
+* [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - A simple Ruby wrapper for invoking terraform commands.
+* [terraboard](https://github.com/camptocamp/terraboard) - A web dashboard to inspect Terraform States
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
-* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
-* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
-* [tfenv](https://github.com/kamatama41/tfenv) - Terraform version manager inspired by rbenv.
-* [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
-* [Blast Radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
-* [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
-* [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
-* [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers.
 * [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - BDD Testing for Terraform Files.
+* [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules.
+* [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
+* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
+* [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
+* [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - A simple implementation of the Terraform registry protocols.
+* [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
+* [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform.
+* [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
+* [tfenv](https://github.com/Zordrak/tfenv) - Terraform version manager inspired by rbenv.
+* [tfjson](https://github.com/palantir/tfjson) - A utility to read in a Terraform plan file and dump it out in JSON
+* [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
+* [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers.
+* [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 
 ## Talks
 
