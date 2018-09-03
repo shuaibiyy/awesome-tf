@@ -102,6 +102,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ## Testing
 
 * [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls.
+* [rspec-terraform](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules
 * [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - BDD Testing for Terraform Files.
 * [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform.
 
