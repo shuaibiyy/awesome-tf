@@ -18,6 +18,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Testing](#testing)
 * [Tools](#tools)
 * [Libraries](#libraries)
+* [Terraform Enterprise](#terraform-enterprise)
 * [Talks](#talks)
 * [Editor Plugins](#editor-plugins)
 
@@ -105,6 +106,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [rspec-terraform](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules
 * [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - BDD Testing for Terraform Files.
 * [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform.
+* [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code
 
 ## Tools
 
@@ -116,17 +118,28 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules.
 * [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
+* [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks)
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
+* [terrascan](https://github.com/cesar-rodriguez/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
 * [tfenv](https://github.com/Zordrak/tfenv) - Terraform version manager inspired by rbenv.
 * [tfjson](https://github.com/palantir/tfjson) - A utility to read in a Terraform plan file and dump it out in JSON
 * [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 * [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers.
+* [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely
 * [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 
 ## Libraries
+
 * [pyhcl](https://github.com/virtuald/pyhcl) - HCL parser in Python
 * [rhcl](https://github.com/winebarrel/rhcl) - Pure Ruby HCL parser
+
+## Terraform Enterprise
+
+* [terraform-enterprise-cli](https://github.com/skierkowski/terraform-enterprise-cli) - Terraform Enterprise Command Line Interface
+* [terraform-enterprise-client](https://github.com/skierkowski/terraform-enterprise-client) - Terraform Enterprise API Ruby Client and Command Line tool
+* [terraform-enterprise-migrator](https://github.com/silinternational/terraform-enterprise-migrator) - Script for migrating Terraform Enterprise environments from Legacy to new version of Terraform Enterprise
+* [tfe-state-explorer](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete.
 
 ## Talks
 
