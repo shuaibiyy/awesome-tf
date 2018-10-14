@@ -41,7 +41,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 * [Terraform: Up & Running](http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform)
 * [The Terraform Book](https://terraformbook.com/)
-* [Getting Started with Terraform](https://www.amazon.com/Getting-Started-Terraform-Kirill-Shirinkin/dp/1786465108/)
+* [Getting Started with Terraform, 2nd ed.](https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/)
 * [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
 
 ## Tutorials and Blog Posts
