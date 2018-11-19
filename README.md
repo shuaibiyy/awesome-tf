@@ -113,6 +113,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command.
 * [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 * [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
+* [geopoiesis](https://docs.geopoiesis.io/manual/) - Geopoiesis is a specialized continuous integration and deployment tool for modern declarative infrastructure provisioning and management.
 * [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - A simple Ruby wrapper for invoking terraform commands.
 * [terraboard](https://github.com/camptocamp/terraboard) - A web dashboard to inspect Terraform States
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
