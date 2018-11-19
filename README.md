@@ -52,6 +52,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/), [II](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/) & [III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/) - Illustrates how Terraform can be incorporated into a microservice deployment pipeline.
 * [Getting Started with Kitchen-Terraform](https://newcontext-oss.github.io/kitchen-terraform/getting_started.html)
 * [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
+* [Terraform Design Patterns: the Terrafile](http://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile/) - Managing Terraform modules and their versions within Terraform projects with Terrafile
 * [Terraform, VPC, and why you want a tfstate file per env](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/) - Some gotchas surrounding using Terraform in large projects with multiple environments and how to avoid them.
 * [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - Explanation of a demo using Terraform to provision a sample AWS architecture.
 * [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) - How 1Password migrated from CloudFormation to Terraform.
@@ -130,6 +131,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers.
 * [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely
 * [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
+* [terrafile](https://github.com/dxw/terrafile) - Terrafile is a tool written in Ruby to systematically manage external modules from Github for use in Terraform.
+* [terrafile](https://github.com/coretech/terrafile) - Terrafile is a tool written in Go to systematically manage external modules from Github for use in Terraform.
+* [python-terrafile](https://github.com/claranet/python-terrafile) - Terrafile is a tool written in Python to systematically manage external modules from Github for use in Terraform.
 
 ## Libraries
 
