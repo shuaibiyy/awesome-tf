@@ -114,27 +114,27 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command.
 * [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 * [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
-* [geopoiesis](https://docs.geopoiesis.io/manual/) - Geopoiesis is a specialized continuous integration and deployment tool for modern declarative infrastructure provisioning and management.
-* [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - A simple Ruby wrapper for invoking terraform commands.
-* [terraboard](https://github.com/camptocamp/terraboard) - A web dashboard to inspect Terraform States
+* [geopoiesis](https://docs.geopoiesis.io/manual/) - Specialized continuous integration and deployment tool for modern declarative infrastructure provisioning and management.
+* [python-terrafile](https://github.com/claranet/python-terrafile) - Systematically manage external modules from Github for use in Terraform.
+* [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - Simple Ruby wrapper for invoking terraform commands.
+* [terraboard](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
+* [terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
+* [terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules.
 * [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
 * [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from `terraform plan` and converting it to JSON.
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
-* [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - Shared Rake tasks for managing terraform plans
+* [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - Shared Rake tasks for managing terraform plans.
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
 * [terrascan](https://github.com/cesar-rodriguez/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
 * [tfenv](https://github.com/Zordrak/tfenv) - Terraform version manager inspired by rbenv.
-* [tfjson](https://github.com/palantir/tfjson) - A utility to read in a Terraform plan file and dump it out in JSON
+* [tfjson](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON
 * [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
-* [tfschema](https://github.com/minamijoyo/tfschema) - A schema inspector for Terraform providers.
+* [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform providers.
 * [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely
 * [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
-* [terrafile](https://github.com/dxw/terrafile) - Terrafile is a tool written in Ruby to systematically manage external modules from Github for use in Terraform.
-* [terrafile](https://github.com/coretech/terrafile) - Terrafile is a tool written in Go to systematically manage external modules from Github for use in Terraform.
-* [python-terrafile](https://github.com/claranet/python-terrafile) - Terrafile is a tool written in Python to systematically manage external modules from Github for use in Terraform.
 
 ## Libraries
 
