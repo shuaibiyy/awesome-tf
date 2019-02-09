@@ -8,19 +8,22 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ## Contents
 
-* [Official Resources](#official-resources)
-* [Community](#community)
-* [Books](#books)
-* [Tutorials and Blog Posts](#tutorials-and-blog-posts)
-* [Community Modules](#community-modules)
-* [Private Module Registries](#private-module-registries)
-* [Providers](#providers)
-* [Testing](#testing)
-* [Tools](#tools)
-* [Libraries](#libraries)
-* [Terraform Enterprise](#terraform-enterprise)
-* [Talks](#talks)
-* [Editor Plugins](#editor-plugins)
+- [Awesome Terraform ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-terraform-awesomehttpsgithubcomsindresorhusawesome)
+	- [Contents](#contents)
+	- [Official Resources](#official-resources)
+	- [Community](#community)
+	- [Books](#books)
+	- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+	- [Community Modules](#community-modules)
+	- [Private Module Registries](#private-module-registries)
+	- [Providers](#providers)
+	- [Testing](#testing)
+	- [Tools](#tools)
+	- [Libraries](#libraries)
+	- [Terraform Enterprise](#terraform-enterprise)
+	- [Talks](#talks)
+	- [Editor Plugins](#editor-plugins)
+	- [License](#license)
 
 ## Official Resources
 
@@ -99,6 +102,13 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Providers
 
+* [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - A Terraform plugin for Amazon Web Services
+* [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) - A Terraform plugin for Google Cloud Platform
+* [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - A Terraform plugin for Microsoft Azure
+* [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - A Terraform plugin for VMware vSphere
+* [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) - A Terraform plugin for AliCloud
+* [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) - A Terraform plugin for Kubernetes
+* [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) - A Terraform plugin for Helm
 * [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - A Terraform plugin for Hetzner Cloud
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - A Terraform plugin for linode
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
