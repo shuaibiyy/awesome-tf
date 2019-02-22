@@ -104,6 +104,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
 * [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Terraform provider to manage uptimerobot resources.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Terraform provider to manage healthchecks.io resources.
+* [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 
 
 ## Testing
