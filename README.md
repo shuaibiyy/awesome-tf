@@ -27,6 +27,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Introduction to Terraform](https://www.terraform.io/intro/)
 * [Terraform Documentation](https://www.terraform.io/docs/)
 * [Hashicorp Terraform Blog](https://www.hashicorp.com/blog/category/terraform)
+* [Terraform learn](https://learn.hashicorp.com/terraform/)
 
 ## Community
 
@@ -62,6 +63,13 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
 * [Using Pipelines to Manage Environments with Infrastructure as Code](https://medium.com/@kief/https-medium-com-kief-using-pipelines-to-manage-environments-with-infrastructure-as-code-b37285a1cbf5) - Explains different approaches for building a pipeline to handle infrastructure changes moving from one environment to the next.
 * [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - Beginner tutorial with a focus on using Terraform to provision an EC2 instance.
+* [Learning HashiCorp Terraform](https://www.g10s.io/hashicorp-terraform/) - Starting guide for use Terraform for Azure
+* [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform) - How ensure Zero downtime of your infrastructure with Terraform.
+* [New Terraform Azure Automation Resources](https://bgelens.nl/terraform-automation-resources/) - How Use Terraform for Azure Automation.
+* [Terraforming Azure PaaS](https://devkimchi.com/2019/01/21/terraforming-azure-paas/) - Use Terraform for deploy Paas Resources on Azure.
+* [Writing Custom Providers](https://www.terraform.io/docs/extend/writing-custom-providers.html) - Official doc for create custom Terraform provider.
+* [Writing a Terraform provider](http://blog.jfabre.net/2017/01/22/writing-terraform-provider/) - Simple guide for create custom Terraform provider.
+* [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2) - Great guide for create custome provider for call Rest Api.
 
 ## Community Modules
 
@@ -90,22 +98,28 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tf_aws_ubuntu_ami](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - Easy way to lookup Ubuntu AMIs with Terraform.
 * [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Creates VPC resources on AWS.
 * [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - Provides only VPC (without subnets) in AWS.
+* [terraform-azurerm-aks](https://github.com/kjanshair/terraform-azurerm-aks) - Create AKS resoutces on Azure.
+* [terraform-azurerm-redis](https://github.com/rahulkhengare/terraform-azurerm-redis) - Create Redis on Azure.
+* [terraform-azurerm-mysql](https://github.com/foreverXZC/terraform-azurerm-mysql) - Create MySql Database on Azure.
+* [terraform-azurerm-sqlserver](https://github.com/metadevpro/terraform-azurerm-sqlserver-seed) - Create SQl Server Database on Azure.
+* [terraform-azurerm-iis](https://github.com/ghostinthewires/terraform-azurerm-iis-install) - Install IIS Server on Azure VM instance.
 
 ## Private Module Registries
 
-* [anthology](https://github.com/erikvanbrakel/anthology) - A private Terraform registry implementation as an alternative to the official registry.
-* [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
-* [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - A simple implementation of the Terraform registry protocols.
+* [anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
+* [citizen](https://github.com/outsideris/citizen) - Private Terraform Module Registry
+* [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 
 ## Providers
 
-* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - A Terraform plugin for Hetzner Cloud
-* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - A Terraform plugin for linode
-* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
-* [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Terraform provider to manage uptimerobot resources.
+* [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - Terraform provider for Azure cloud.
+* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - Terraform plugin for Hetzner Cloud.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Terraform provider to manage healthchecks.io resources.
 * [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
-
+* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Terraform plugin for linode
+* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
+* [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - Devops automation platform for AWS, Azure, GCP.
+* [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Terraform provider to manage uptimerobot resources.
 
 ## Testing
 
@@ -169,6 +183,13 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [Terraform w/ Lee Trout](https://www.youtube.com/watch?v=p2ESyuqPw1A) - Focuses on development patterns and how to effectively structure Terraform code.
 * [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) - Provisioning hybrid cloud infrastructure using Terraform.
 * [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ) - Yevgeniy Brikman talks about how to write Terraform code so that it is reusable, composable and testable. The presentation focuses on Terraform modules, but also provides a brief and clear explanation of what problem Terraform was created to solve and a short demo of Terraform basics (~39 min, October 2017)
+* [Creating a Google Compute Instance with Terraform](https://www.youtube.com/watch?v=fo3VX33Zx0c) - Example of creating a Google Compute Instance with Terraform code.
+* [Test and verify a Google Compute Instance with Kitchen-Terraform](https://www.youtube.com/watch?v=kiH3-LEveek) - Example of using Kitchen-Terraform to test our Terraform code that created a Google Compute.
+* [Setup Continuous Integration for a Terraform module](https://www.youtube.com/watch?v=vuJ6bjYKUcA) - Example of using CI with Kitchen-Terraform to test, tag and publish our Terraform module which creates a Google Compute Instance.
+* [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) - Learn how to contribute to a Terraform provider or create your own from this walkthrough.
+* [How to Extend the Terraform Provider List](https://www.youtube.com/watch?v=2BvpqmFpchI) - In this talk, Paul will walk through the creation of a terraform provider.
+* [Using Terraform for blue-green deployments on Triton](https://www.joyent.com/blog/video-blue-green-deploys-terraform) - Video of demo on using Blue green with Terraform.
+
 
 ## Editor Plugins
 
