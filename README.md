@@ -106,18 +106,19 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Private Module Registries
 
-* [anthology](https://github.com/erikvanbrakel/anthology) - A private Terraform registry implementation as an alternative to the official registry.
-* [citizen](https://github.com/outsideris/citizen) - A Private Terraform Module Registry
-* [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - A simple implementation of the Terraform registry protocols.
+* [anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
+* [citizen](https://github.com/outsideris/citizen) - Private Terraform Module Registry
+* [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 
 ## Providers
 
-* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - A Terraform plugin for Hetzner Cloud
-* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - A Terraform plugin for linode
-* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
-* [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - Terraform provider for Azure cloud
-* [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Terraform provider to manage uptimerobot resources.
+* [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - Terraform provider for Azure cloud.
+* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - Terraform plugin for Hetzner Cloud.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Terraform provider to manage healthchecks.io resources.
+* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Terraform plugin for linode
+* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
+* [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - Devops automation platform for AWS, Azure, GCP.
+* [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Terraform provider to manage uptimerobot resources.
 
 ## Testing
 
