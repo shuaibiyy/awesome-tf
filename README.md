@@ -150,7 +150,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 * [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
 * [geopoiesis](https://docs.geopoiesis.io/manual/) - Specialized continuous integration and deployment tool for modern declarative infrastructure provisioning and management.
-* [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL, and vice versa
+* [k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter.
+* [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa.
 * [python-terrafile](https://github.com/claranet/python-terrafile) - Systematically manage external modules from Github for use in Terraform.
 * [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - Simple Ruby wrapper for invoking terraform commands.
 * [scenery](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier
