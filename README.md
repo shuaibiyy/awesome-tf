@@ -118,6 +118,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-azurerm-mysql](https://github.com/foreverXZC/terraform-azurerm-mysql) - Create MySql Database on Azure.
 * [terraform-azurerm-sqlserver](https://github.com/metadevpro/terraform-azurerm-sqlserver-seed) - Create SQl Server Database on Azure.
 * [terraform-azurerm-iis](https://github.com/ghostinthewires/terraform-azurerm-iis-install) - Install IIS Server on Azure VM instance.
+* [terraform-linode-k8s](https://registry.terraform.io/modules/linode/k8s/linode/) - Installs Kubernetes on Linode Instances
 
 ## Private Module Registries
 
@@ -131,7 +132,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - Terraform plugin for Hetzner Cloud.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Terraform provider to manage healthchecks.io resources.
 * [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
-* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Terraform plugin for linode
+* [terraform-provider-linode](https://github.com/terraform-providers/terraform-provider-linode) - Terraform provider for Linode
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
 * [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Manage [Spinnaker](https://www.spinnaker.io/) applications and pipelines with Terraform.
 * [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - Devops automation platform for AWS, Azure, GCP.
