@@ -49,7 +49,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ### Beginner Guides
 * [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp) - Series of blog posts from the author of "Terraform: Up & Running" that guide the reader from beginning with Terraform to using it in the real world.
-* [Bootstrapping Docker Infrastructure With Terraform](http://vilkeliskis.com/blog/2016/02/10/bootstrapping-docker-with-terraform.html) - Walkthrough of deploying a dockerized app on ECS using Terraform.
+* [Bootstrapping Docker Infrastructure With Terraform](http://vilkeliskis.com/aws-docker-terraform) - Walkthrough of deploying a dockerized app on ECS using Terraform.
 * [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - Provisioning an EC2 instance.
 
 ### Writing Custom Providers
