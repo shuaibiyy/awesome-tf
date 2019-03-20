@@ -8,22 +8,19 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ## Contents
 
-- [Awesome Terraform ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-terraform-awesomehttpsgithubcomsindresorhusawesome)
-	- [Contents](#contents)
-	- [Official Resources](#official-resources)
-	- [Community](#community)
-	- [Books](#books)
-	- [Tutorials and Blog Posts](#tutorials-and-blog-posts)
-	- [Community Modules](#community-modules)
-	- [Private Module Registries](#private-module-registries)
-	- [Providers](#providers)
-	- [Testing](#testing)
-	- [Tools](#tools)
-	- [Libraries](#libraries)
-	- [Terraform Enterprise](#terraform-enterprise)
-	- [Talks](#talks)
-	- [Editor Plugins](#editor-plugins)
-	- [License](#license)
+* [Official Resources](#official-resources)
+* [Community](#community)
+* [Books](#books)
+* [Tutorials and Blog Posts](#tutorials-and-blog-posts)
+* [Community Modules](#community-modules)
+* [Private Module Registries](#private-module-registries)
+* [Providers](#providers)
+* [Testing](#testing)
+* [Tools](#tools)
+* [Libraries](#libraries)
+* [Terraform Enterprise](#terraform-enterprise)
+* [Talks](#talks)
+* [Editor Plugins](#editor-plugins)
 
 ## Official Resources
 
