@@ -128,21 +128,22 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Providers
 
-* [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) - A Terraform plugin for AliCloud
-* [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - A Terraform plugin for Amazon Web Services
-* [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - A Terraform plugin for Microsoft Azure
-* [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) - A Terraform plugin for Google Cloud Platform
-* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - A Terraform plugin for Hetzner Cloud
+* [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) - Terraform plugin for AliCloud
+* [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform plugin for Amazon Web Services
+* [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - Terraform plugin for Microsoft Azure
+* [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) - Terraform plugin for Google Cloud Platform
+* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - Terraform plugin for Hetzner Cloud
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Terraform provider to manage healthchecks.io resources.
-* [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) - A Terraform plugin for Helm
+* [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) - Terraform plugin for Helm
 * [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Terraform provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
-* [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) - A Terraform plugin for Kubernetes
-* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - A Terraform plugin for linode
+* [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) - Terraform plugin for Kubernetes
+* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Terraform plugin for linode
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Terraform provider to manage pingdom resources.
 * [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Manage [Spinnaker](https://www.spinnaker.io/) applications and pipelines with Terraform.
 * [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - Devops automation platform for AWS, Azure, GCP.
+* [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) - Terraform Provider for Stripe.
 * [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Terraform provider to manage uptimerobot resources.
-* [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - A Terraform plugin for VMware vSphere
+* [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - Terraform plugin for VMware vSphere
 
 ## Testing
 
