@@ -37,7 +37,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Terraform Community Modules](https://github.com/terraform-community-modules)
 * [Terraform Module Registry](https://registry.terraform.io/)
 * [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf)
-* [Complete Terraform documentation (core + all official providers) as PDF files. Updating nightly.](https://github.com/antonbabenko/terraform-docs-as-pdf)
+* [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf)
 * [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices)
 
 ## Books
@@ -173,7 +173,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
 * [terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
 * [terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
-* [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle) - A tool to easily build bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
+* [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - Quick utility to generate docs from terraform modules.
 * [terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand.
 * [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from `terraform plan` and converting it to JSON.
@@ -181,13 +181,13 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - Shared Rake tasks for managing terraform plans.
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that supports locking for Terraform state and enforces best practices.
-* [terrahelp](https://github.com/opencredo/terrahelp) - a command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
+* [terrahelp](https://github.com/opencredo/terrahelp) - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 * [terrascan](https://github.com/cesar-rodriguez/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
 * [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
 * [tfjson](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON
 * [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 * [tfmask](https://github.com/cloudposse/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
-* [tfscaffold](https://github.com/tfutils/tfscaffold) - A framework for controlling multi-environment multi-component terraform-managed AWS infrastructure
+* [tfscaffold](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.
 * [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform providers.
 * [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely
 * [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
