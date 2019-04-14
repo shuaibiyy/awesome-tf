@@ -135,6 +135,11 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) -  Plugin for Alibaba Cloud.
 * [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Plugin for Amazon Web Services.
 * [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - Plugin for Microsoft Azure.
+* [terraform-provider-datadog](https://github.com/terraform-providers/terraform-provider-datadog) - Plugin for Datadog.
+* [terraform-provider-digitalocean](https://github.com/terraform-providers/terraform-provider-digitalocean) - Plugin for DigitalOcean.
+* [terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) - Plugin for Docker.
+* [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Plugin for GitHub.
+* [terraform-provider-gitlab](https://github.com/terraform-providers/terraform-provider-gitlab) - Plugin for GitLab.
 * [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) - Plugin for Google Cloud Platform.
 * [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - Plugin for Hetzner Cloud.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Provider to manage healthchecks.io resources.
@@ -142,6 +147,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) -  Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 * [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) - Plugin for Kubernetes.
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Plugin for Linode.
+* [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) - Plugin for OpenStack.
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
 * [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Manage [Spinnaker](https://www.spinnaker.io/) applications and pipelines with Terraform.
 * [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - Devops automation platform for AWS, Azure, GCP.
