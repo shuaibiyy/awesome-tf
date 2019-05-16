@@ -248,6 +248,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
 * [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode)
 * [VS Code](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
+* [Atom terraform-lookup](https://atom.io/packages/terraform-lookup)
 
 ## License
 
