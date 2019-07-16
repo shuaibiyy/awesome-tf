@@ -249,6 +249,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
 * [Vim-Terraform](https://github.com/hashivim/vim-terraform)
 * [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
+* [Terraform-lsp](https://github.com/juliosueiras/terraform-lsp)
 * [VS Code](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
 
 ## License
