@@ -172,6 +172,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command.
 * [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 * [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
+* [fogg](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
 * [geopoiesis](https://docs.geopoiesis.io/manual/) - Specialized continuous integration and deployment tool for modern declarative infrastructure provisioning and management.
 * [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
 * [k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter.
