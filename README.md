@@ -186,6 +186,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - Simple Ruby wrapper for invoking terraform commands.
 * [scenery](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier.
 * [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
+* [tau](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies and secrets.
 * [terraboard](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
 * [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
 * [terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
