@@ -150,6 +150,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Plugin for IBM Cloud
 * [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) -  Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 * [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) - Plugin for Kubernetes.
+* [terraform-provider-k8s](https://github.com/mingfang/terraform-provider-k8s) - Plugin for Kubernetes that supports all resource types and Custome Resources Definitions(CRD).
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Plugin for Linode.
 * [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) - Plugin for OpenStack.
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
