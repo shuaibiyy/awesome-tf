@@ -36,10 +36,12 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 * [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 * [Terraform Community Modules](https://github.com/terraform-community-modules)
+* [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository](https://github.com/terraform-aws-modules/meta)
 * [Terraform Module Registry](https://registry.terraform.io/)
 * [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf)
 * [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf)
 * [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices)
+* [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 
 ## Books
 
@@ -88,6 +90,8 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
 * [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
 * [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - Explanation of a demo using Terraform to provision a sample AWS architecture.
+* [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimation) - Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version).
+
 
 ## Community Modules
 
@@ -226,6 +230,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Libraries
 
+* [python-hcl2](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 * [pyhcl](https://github.com/virtuald/pyhcl) - HCL parser in Python
 * [rhcl](https://github.com/winebarrel/rhcl) - Pure Ruby HCL parser
 
