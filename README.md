@@ -230,6 +230,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tgf](https://github.com/coveo/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 * [xterrafile](https://github.com/devopsmakers/xterrafile) Systematically manage external modules from the module registry, git or local directories for use in Terraform (written in Go).
 * [TerraDepot](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
+* [Terraform-Visual](https://github.com/hieven/terraform-visual) A simple but powerful tool to visualize Terraform plan
 
 ## Libraries
 
