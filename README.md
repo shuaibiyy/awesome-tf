@@ -151,6 +151,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-github](https://github.com/terraform-providers/terraform-provider-github) - Plugin for GitHub.
 * [terraform-provider-gitlab](https://github.com/terraform-providers/terraform-provider-gitlab) - Plugin for GitLab.
 * [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) - Plugin for Google Cloud Platform.
+* [terraform-provider-graphql](https://github.com/sullivtr/terraform-provider-graphql) - Plugin for GraphQL queries and mutations.
 * [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) - Plugin for Hetzner Cloud.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Provider to manage healthchecks.io resources.
 * [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) - Plugin for Helm.
