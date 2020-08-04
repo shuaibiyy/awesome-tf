@@ -18,6 +18,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Testing](#testing)
 - [Tools](#tools)
 - [Libraries](#libraries)
+- [Boilerplates](#Boilerplates)
 - [Terraform Enterprise](#terraform-enterprise)
 - [Talks](#talks)
 - [Editor Plugins](#editor-plugins)
@@ -242,6 +243,10 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [python-hcl2](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 - [pyhcl](https://github.com/virtuald/pyhcl) - HCL parser in Python
 - [rhcl](https://github.com/winebarrel/rhcl) - Pure Ruby HCL parser
+
+## Boilerplates
+
+- [Terraform Generator](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
 
 ## Terraform Enterprise
 
