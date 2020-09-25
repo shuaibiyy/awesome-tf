@@ -231,6 +231,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfjson](https://github.com/palantir/tfjson) - *(outdated)* Utility to read in a Terraform plan file and dump it out in JSON.
 - [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [tfmask](https://github.com/cloudposse/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
+- [tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps.
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform providers.
 - [tfsec](https://github.com/liamg/tfsec) - Static analysis powered security scanner for your terraform code
