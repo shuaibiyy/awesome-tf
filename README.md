@@ -51,6 +51,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action)
 - [Terraform: Up & Running](http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform)
 - [The Terraform Book](https://terraformbook.com/)
+- [Bootstrapping Microservices](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform).
 
 ## Tutorials and Blog Posts
 
