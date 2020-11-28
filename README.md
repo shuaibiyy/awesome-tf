@@ -45,6 +45,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ## Books
 
+- [Terraform Cookbook](https://www.amazon.fr/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557)
 - [Getting Started with Terraform, 2nd ed.](https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/)
 - [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices)
