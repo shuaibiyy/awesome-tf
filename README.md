@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Hashicorp Terraform Blog](https://www.hashicorp.com/blog/category/terraform)
 - [Introduction to Terraform](https://www.terraform.io/intro/)
 - [Terraform Documentation](https://www.terraform.io/docs/)
-- [Terraform GitHub Actions](https://github.com/hashicorp/terraform-github-actions)
+- [Terraform GitHub Actions](https://github.com/hashicorp/terraform-github-actions) :skull:
 - [Terraform learn](https://learn.hashicorp.com/terraform/)
 
 ## Community
@@ -47,7 +47,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 - [Terraform Google Group](https://groups.google.com/forum/#!forum/terraform-tool)
 - [Terraform Module Registry](https://registry.terraform.io/)
-- [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf)
+- [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 - [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 
 ## Books
