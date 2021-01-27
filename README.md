@@ -192,6 +192,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - BDD Testing for Terraform Files.
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform.
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [clarity](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
 
 ## Tools
 
