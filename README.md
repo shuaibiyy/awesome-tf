@@ -185,6 +185,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
 - [terraform-provider-azuredevops](https://github.com/mikaelkrief/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 - [terraform-provider-snowfake](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse
+- [terraform-provider-k8s](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
 
 ## Testing
 
