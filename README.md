@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Hashicorp Terraform Blog](https://www.hashicorp.com/blog/category/terraform)
 - [Introduction to Terraform](https://www.terraform.io/intro/)
 - [Terraform Documentation](https://www.terraform.io/docs/)
-- [Terraform GitHub Actions](https://github.com/hashicorp/terraform-github-actions) :skull:
+- [Terraform GitHub Actions](https://github.com/hashicorp/setup-terraform) :skull:
 - [Terraform learn](https://learn.hashicorp.com/terraform/)
 
 ## Community
