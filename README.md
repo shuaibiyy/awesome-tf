@@ -275,6 +275,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ## Boilerplates
 
 - [Terraform Generator](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
+- [Terraform GitOps Framework](https://www.kubestack.com) - Everything you need to build reliable automation for AKS, EKS and GKE Kubernetes clusters in one free and open-source framework.
 
 ## Terraform Enterprise
 
