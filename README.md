@@ -6,6 +6,10 @@
 
 Terraform enables you to safely and predictably create, change, and improve production infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
+Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
+
+<a href="https://www.scalr.com/?utm_source=awesome-terraform" target="_blank"><img src="https://bit.ly/3tV6UZv" alt="Scalr - Terraform Automation & Collaboration Software" width="175" height="40" /></a>
+
 ## Contents
 
 - [Legend](#legend)
