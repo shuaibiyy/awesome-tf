@@ -32,7 +32,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Libraries](#libraries)
 - [Boilerplates](#Boilerplates)
 - [Terraform Enterprise](#terraform-enterprise)
-- [Talks](#talks)
+- [Videos](#videos)
 - [Editor Plugins](#editor-plugins)
 
 ## Legend
