@@ -177,7 +177,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-azuredevops](https://github.com/mikaelkrief/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 - [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) - Plugin for Buildkite.
 - [terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
-- [terraform-provider-datadog](https://github.com/terraform-providers/terraform-provider-datadog) - Plugin for Datadog.
+- [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Plugin for Datadog.
 - [terraform-provider-digitalocean](https://github.com/terraform-providers/terraform-provider-digitalocean) - Plugin for DigitalOcean.
 - [terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) - Plugin for Docker.
 - [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
