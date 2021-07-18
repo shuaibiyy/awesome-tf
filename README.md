@@ -8,7 +8,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
 
-<a href="https://www.scalr.com/?utm_source=awesome-terraform" target="_blank"><img src="https://bit.ly/3tV6UZv" alt="Scalr - Terraform Automation & Collaboration Software" width="175" height="40" /></a>
+<a href="https://www.scalr.com/?utm_source=awesome-terraform" target="_blank"><img src="https://bit.ly/2VPBJDv" alt="Scalr - Terraform Automation & Collaboration Software" width="175" height="40" /></a>
 
 ## Contents
 
