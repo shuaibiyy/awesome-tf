@@ -245,6 +245,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [scenery](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier. :ghost:
 - [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
 - [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more](https://github.com/antonbabenko/serverless.tf).
+- [Shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 - [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
 - [tau](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies and secrets.
 - [terraboard](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
