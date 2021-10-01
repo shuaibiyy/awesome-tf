@@ -167,6 +167,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 - [anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
 - [citizen](https://github.com/outsideris/citizen) - Private Terraform Module Registry
+- [modulehub](https://www.modulehub.io) - Private Terraform Module Registry and State backend
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 
 ## Providers
