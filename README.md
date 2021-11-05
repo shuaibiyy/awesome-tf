@@ -169,6 +169,10 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [citizen](https://github.com/outsideris/citizen) - Private Terraform Module Registry
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 
+## Private Provider Registries
+
+- [terustry](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
+
 ## Providers
 
 - [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) - Plugin for Alibaba Cloud.
