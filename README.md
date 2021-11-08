@@ -96,6 +96,8 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) - How 1Password migrated from CloudFormation to Terraform.
 - [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - Illustrates how easy it is to use the OpenStack Terraform provider to deploy a web server.
 - [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform) - Ensuring zero downtime of your infrastructure.
+- [How to Destroy Resources from Terraform](https://spacelift.io/blog/how-to-destroy-terraform-resources) - How to manage the destruction of cloud infrastructure resources that are under Terraform management (resources that are created using Terraform IaC) and how to overcome some common pitfalls.
+- [How to Use Terraform Variables](https://spacelift.io/blog/how-to-use-terraform-variables) - How to Use Terraform Variables (Local, Input, Output, Environment).
 
 ### Multi-Environment Configuration
 
@@ -108,6 +110,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Learning HashiCorp Terraform](https://www.g10s.io/hashicorp-terraform/) - Guide for Azure.
 - [New Terraform Azure Automation Resources](https://bgelens.nl/terraform-automation-resources/) - Azure Automation.
 - [Terraforming Azure PaaS](https://devkimchi.com/2019/01/21/terraforming-azure-paas/) - Deploy PaaS Resources on Azure.
+- [Building a Secure CI/CD Integration with Azure](https://spacelift.io/blog/building-secure-cicd-integration-with-azure)
 
 ### AWS
 
@@ -121,6 +124,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
 - [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - Explanation of a demo using Terraform to provision a sample AWS architecture.
 - [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimation) - Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version).
+- [How to Upgrade Terraform to the Latest Version](https://spacelift.io/blog/terraform-version-upgrade) - How you can install Terraform, as well as how to upgrade it to a specific release version (Terraform v0.15, v0.14, v0.13, v0.12, or any other) using tfenv.
 
 ## Community Modules
 
