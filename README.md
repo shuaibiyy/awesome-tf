@@ -282,6 +282,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tflint](https://github.com/wata727/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [tfmask](https://github.com/cloudposse/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps.
+- [tfmigrator](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform providers.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations.
