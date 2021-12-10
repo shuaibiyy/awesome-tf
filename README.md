@@ -223,6 +223,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
 - [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 - [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
+- [Brainboard](https://www.brainboard.co) - Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 - [Cloudrail](https://github.com/indeni/cloudrail-demo) - Terraform and Live Cloud context-based analysis tool for terraform>=0.12 :heavy_dollar_sign:
 - [flora](https://github.com/ketchoop/flora) - Terraform version manager.
@@ -276,7 +277,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraspace](https://terraspace.cloud) - The Terraform Framework
 - [terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 - [tf-init-booster](https://github.com/hayorov/terraform-init-booster) A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
-- [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment. 
+- [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
 - [tfsec](https://github.com/tfsec/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
 - [tfjson](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
