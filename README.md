@@ -58,7 +58,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Terraform Community Modules](https://github.com/terraform-community-modules)
 - [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 - [Terraform Discuss](https://discuss.hashicorp.com/c/terraform-core/27)
-- [Terraform Module Registry](https://registry.terraform.io/)
+- [Terraform Provider/Module Registry](https://registry.terraform.io/)
 - [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 - [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 
