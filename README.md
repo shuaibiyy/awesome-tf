@@ -64,13 +64,17 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 
 ## Books
 
+- [Big Little Book On Terraform](https://www.amazon.com/Big-Little-Book-Terraform-Omos-ebook/dp/B07PWYPNX8/)
 - [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform).
+- [Deep-Dive Terraform on Azure](https://link.springer.com/book/10.1007/978-1-4842-7328-9)
 - [Getting Started with Terraform, 2nd ed.](https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/)
+- [HashiCorp Infrastructure Automation Certification Guide](https://www.amazon.com/HashiCorp-Infrastructure-Automation-Certification-Guide-ebook/dp/B092KM7LXC/)
 - [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
+- [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/patterns-and-practices-for-infrastructure-as-code)
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices)
 - [Terraform Cookbook](https://www.amazon.fr/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557)
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action)
-- [Terraform: Up & Running](http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform)
+- [Terraform: Up & Running, 2nd ed.](http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform)
 - [The Terraform Book](https://terraformbook.com/)
 
 ## Tutorials and Blog Posts
