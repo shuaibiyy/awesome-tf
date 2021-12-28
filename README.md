@@ -188,6 +188,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 - [anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
 - [citizen](https://github.com/outsideris/citizen) - Private Terraform Module Registry
+- [modulehub](https://www.modulehub.io) - Private Terraform Module Registry and State backend.
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 - [terraform-registry](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 
@@ -340,7 +341,6 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfe-state-explorer](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 - [Scalr](https://scalr.com) - Alternative to Terraform Enterprise with OPA integration :heavy_dollar_sign:
 - [env0](https://env0.com) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy_dollar_sign:
-- [modulehub](https://www.modulehub.io) - Private Terraform Module Registry and State backend.
 
 ## Videos
 
