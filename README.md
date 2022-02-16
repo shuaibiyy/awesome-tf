@@ -26,6 +26,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
   - [Miscellaneous](#miscellaneous)
 - [Community Modules](#community-modules)
 - [Private Module Registries](#private-module-registries)
+- [Private Provider Registries](#private-provider-registries)
 - [Providers](#providers)
   - [Hashicorp supported providers](#hashicorp-supported-providers)
   - [Vendor supported providers](#vendor-supported-providers)
