@@ -23,6 +23,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
   - [Multi-Environment Configuration](#multi-environment-configuration)
   - [Azure](#azure)
   - [AWS](#aws)
+  - [Google Cloud](#google-cloud)
   - [Miscellaneous](#miscellaneous)
 - [Community Modules](#community-modules)
 - [Private Module Registries](#private-module-registries)
@@ -123,6 +124,12 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 
 - [AWS Lambda the Terraform Way](https://github.com/nsriram/lambda-the-terraform-way) - Understand AWS Lambda in-depth, beyond executing functions, using Terraform. Also includes guides for integration with S3, API Gateway, DynamoDB, Kinesis, SQS.
 - [Managing AWS Lambda Functions with Terraform](https://spacelift.io/blog/terraform-aws-lambda) - What is AWS Lambda used for and how to use Terraform to manage AWS Lambda functions?
+
+### Google Cloud
+-[Managing infrastructure as code with Terraform, Cloud Build, and GitOps](https://cloud.google.com/architecture/managing-infrastructure-as-code) - Setup and manage infrastructure as code with Terraform, Cloud Build, and GitOps.
+-[Getting started with Terraform on Google Cloud](https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform) - Using Terraform to create a VM in Google Cloud and Starting a basic Python Flask server.
+-[Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/quests/44) - Deploy Kubernetes Load Balancer Service with Terraform,HTTPS Content-Based Load Balancer with Terraform,Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform,Building a VPN Between Google Cloud and AWS with Terraform.
+-[Hashicorp Terraform Tutorials for Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) - Get started with Terraform on Google Cloud.
 
 ### Miscellaneous
 
