@@ -265,6 +265,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AirIAM is a tool for AWS IAM to least privilege Terraform execution framework.
 - [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
+- [atmos](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
 - [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 - [aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
 - [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
