@@ -48,7 +48,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 
 ## Official Resources
 
-- [Hashicorp Terraform Blog](https://www.hashicorp.com/blog/category/terraform)
+- [Hashicorp Terraform Blog](https://www.hashicorp.com/blog/products/terraform)
 - [Introduction to Terraform](https://www.terraform.io/intro/)
 - [Terraform Documentation](https://www.terraform.io/docs/)
 - [Terraform GitHub Actions](https://github.com/hashicorp/setup-terraform)
