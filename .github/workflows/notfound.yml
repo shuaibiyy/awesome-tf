@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Fix links
-        uses: tmcw/notfoundbot@v2
+        uses: tmcw/notfoundbot@v2.3.0
