@@ -1,0 +1,14 @@
+name: notfoundbot
+
+on:
+  schedule:
+    - cron: "12 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fix links
+        uses: tmcw/notfoundbot@v2
