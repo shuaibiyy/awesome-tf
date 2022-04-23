@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      # since v1 does not track the latest release, use v1.1.4 in here instead
-      - uses: gaurav-nelson/github-action-markdown-link-check@v1.1.4
+      # since `v1` does not track the latest release, use `1.1.4` in here instead
+      - uses: gaurav-nelson/github-action-markdown-link-check@1.1.4
         with:
           config-file: '.github/workflows/markdown.links.config.json'
