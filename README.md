@@ -230,6 +230,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Plugin for Datadog.
 - [terraform-provider-digitalocean](https://github.com/digitalocean/terraform-provider-digitalocean) - Plugin for DigitalOcean.
 - [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
+- [terraform-provider-env0](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
 - [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Plugin for GitHub.
 - [terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) - Plugin for GitLab.
 - [terraform-provider-graphql](https://github.com/sullivtr/terraform-provider-graphql) - Plugin for GraphQL queries and mutations.
