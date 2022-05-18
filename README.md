@@ -213,42 +213,42 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### Hashicorp supported providers
 
-- [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Plugin for Amazon Web Services.
-- [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Plugin for Microsoft Azure.
-- [terraform-provider-docker](https://github.com/hashicorp/terraform-provider-docker) - Plugin for Docker.
-- [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Plugin for Google Cloud Platform.
-- [terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) - Plugin for Helm.
-- [terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) - Plugin for Kubernetes.
-- [terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) - Plugin for VMware vSphere.
+- [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
+- [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
+- [terraform-provider-docker](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker.
+- [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
+- [terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
+- [terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) - Provider for Kubernetes.
+- [terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) - Provider for VMware vSphere.
 
 ### Vendor supported providers
 
-- [terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) - Plugin for Alibaba Cloud.
+- [terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
 - [terraform-provider-azuredevops](https://github.com/mikaelkrief/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
-- [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) - Plugin for Buildkite.
+- [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
 - [terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
-- [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Plugin for Datadog.
-- [terraform-provider-digitalocean](https://github.com/digitalocean/terraform-provider-digitalocean) - Plugin for DigitalOcean.
+- [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
+- [terraform-provider-digitalocean](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
 - [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
 - [terraform-provider-env0](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
-- [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Plugin for GitHub.
-- [terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) - Plugin for GitLab.
-- [terraform-provider-graphql](https://github.com/sullivtr/terraform-provider-graphql) - Plugin for GraphQL queries and mutations.
-- [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Plugin for Hetzner Cloud.
+- [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Provider for GitHub.
+- [terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
+- [terraform-provider-graphql](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
+- [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
 - [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - Provider to manage healthchecks.io resources.
-- [terraform-provider-heroku](https://github.com/heroku/terraform-provider-heroku) - Plugin for Heroku.
-- [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Plugin for IBM Cloud.
+- [terraform-provider-heroku](https://github.com/heroku/terraform-provider-heroku) - Provider for Heroku.
+- [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Provider for IBM Cloud.
 - [terraform-provider-k8s](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
 - [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
-- [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Plugin for Linode.
+- [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
 - [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 - [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
 - [terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 - [terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://scalr.com)
 - [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Provider for SecretHub.
 - [terraform-provider-snowflake](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
-- [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Manage [Spinnaker](https://www.spinnaker.io/) applications and pipelines with Terraform.
-- [terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) - Devops automation platform for AWS, Azure, GCP.
+- [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
+- [terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
 - [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) - Provider for Stripe.
 - [terraform-provider-ucloud](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 - [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
