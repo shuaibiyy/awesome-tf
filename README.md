@@ -204,6 +204,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [modulehub](https://www.modulehub.io) - Private Terraform Module Registry and State backend.
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 - [terraform-registry](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
+- [terrareg](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import
 
 ## Private Provider Registries
 
