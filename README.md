@@ -67,6 +67,8 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Terraform Provider/Module Registry](https://registry.terraform.io/)
 - [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 - [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
+- Language-specific communities:
+  - [Telegram (Ukrainian speak community)](https://t.me/terraform_ukraine)
 
 ## Books
 
