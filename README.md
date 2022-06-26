@@ -61,7 +61,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository](https://github.com/terraform-aws-modules/meta)
 - [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 - [Terraform Community Modules](https://github.com/terraform-community-modules)
-- [Terraform Twitter Community](https://twitter.com/i/communities/1500010964271329281)
+- [Terraform Twitter Community](https://twitter.com/i/communities/1501688565884928007)
 - [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 - [Terraform Discuss](https://discuss.hashicorp.com/c/terraform-core/27)
 - [Terraform Provider/Module Registry](https://registry.terraform.io/)
