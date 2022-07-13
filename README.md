@@ -61,11 +61,14 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 - [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository](https://github.com/terraform-aws-modules/meta)
 - [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 - [Terraform Community Modules](https://github.com/terraform-community-modules)
+- [Terraform Twitter Community](https://twitter.com/i/communities/1501688565884928007)
 - [Terraform Gitter](https://gitter.im/hashicorp-terraform)
 - [Terraform Discuss](https://discuss.hashicorp.com/c/terraform-core/27)
 - [Terraform Provider/Module Registry](https://registry.terraform.io/)
 - [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 - [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
+- Language-specific communities:
+  - [Telegram (Ukrainian speak community)](https://t.me/terraform_ukraine)
 
 ## Books
 
@@ -93,7 +96,7 @@ Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://sca
 ### Writing Custom Providers
 
 - [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2) - Guide for creating custom providers.
-- [Writing a Terraform provider](http://blog.jfabre.net/2017/01/22/writing-terraform-provider/) - Guide for creating custom providers.
+- [Writing a Terraform provider](https://web.archive.org/web/20220516140659/http://blog.jfabre.net/2017/01/22/writing-terraform-provider/) - Guide for creating custom providers.
 - [Writing Custom Providers](https://www.terraform.io/docs/extend/writing-custom-providers.html) - Official documentation for creating custom providers.
 
 ### How-To
@@ -341,6 +344,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tf-init-booster](https://github.com/hayorov/terraform-init-booster) A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
 - [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
 - [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
+- [tfedit](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 - [tfsec](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
 - [tfjson](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
@@ -380,6 +384,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [modulehub](https://www.modulehub.io) - Private Terraform Module Registry and State backend.
 - [Brainboard](https://www.brainboard.co) - Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure
 - [Terrakube](https://terrakube.org) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces and visual states.
+- [Spacelift](https://spacelift.io/) - Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform :heavy_dollar_sign:
 
 ## Videos
 
@@ -410,6 +415,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Atom terraform-lookup](https://atom.io/packages/terraform-lookup)
 - [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode)
 - [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
+- [Terraform-ls](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 - [Terraform-lsp](https://github.com/juliosueiras/terraform-lsp) (Language Server Protocol for Terraform)
 - [Vim-Terraform](https://github.com/hashivim/vim-terraform)
 - [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
