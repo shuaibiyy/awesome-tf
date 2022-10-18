@@ -284,6 +284,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 - [Cloudrail](https://github.com/indeni/cloudrail-demo) - Terraform and Live Cloud context-based analysis tool for terraform>=0.12 :heavy_dollar_sign:
+- [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [flora](https://github.com/ketchoop/flora) - Terraform version manager.
 - [fogg](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
