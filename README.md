@@ -87,6 +87,7 @@ Books published on Terraform, listed in alphabetical order with published date a
 - [HashiCorp Infrastructure Automation Certification Guide: Pass the Terraform Associate exam and manage IaC to scale across AWS, Azure, and Google Cloud](https://www.amazon.com/HashiCorp-Infrastructure-Automation-Certification-Guide-ebook/dp/B092KM7LXC/) (2021) - Leverage Terraform's capabilities to reuse code, write modules, automate deployments, and manage infrastructure state.
 - [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do) (2016) - Ideal for system administrators, infrastructure engineers, team leads, and architects, this book demonstrates various tools, techniques, and patterns you can use to implement infrastructure as code.
 - [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/patterns-and-practices-for-infrastructure-as-code) (2022) - Use Infrastructure as Code (IaC) to automate, test, and streamline infrastructure for business-critical systems.
+- [Terraform Best Practices](https://www.terraform-best-practices.com/) (2022) - [Open-source ebook](https://github.com/antonbabenko/terraform-best-practices/) describing best practices using Terraform and providing recommendations for the most frequent problems Terraform users experience.
 - [Terraform Cookbook: Efficiently define, launch, and manage Infrastructure as Code across various cloud platforms](https://www.amazon.com/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557) (2020) - Discover how to manage and scale your infrastructure using Infrastructure as Code with Terraform.
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action) (2021) - Use Terraform to programmatically create, test, and manage infrastructure using the efficient infrastructure-as-code approach.
 - [Terraform: Up & Running, 3rd edition](http://www.terraformupandrunning.com/) (2022) - This book is the fastest way to get up and running with Terraform, an open source tool that allows you to define your infrastructure as code and to deploy and manage that infrastructure across a variety of public cloud providers and private cloud and virtualization platforms.
@@ -207,6 +208,7 @@ This section lists commonly used and interesting Terraform providers. Additional
 - [terraform-provider-azuredevops](https://github.com/mikaelkrief/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
 - [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
 - [terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
+- [terraform-provider-confluent](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 - [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
 - [terraform-provider-digitalocean](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
 - [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
@@ -222,10 +224,12 @@ This section lists commonly used and interesting Terraform providers. Additional
 - [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 - [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
 - [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
+- [terraform-provider-panos](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 - [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
 - [terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 - [terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://scalr.com)
 - [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Provider for SecretHub.
+- [terraform-provider-sigsci](https://github.com/signalsciences/terraform-provider-sigsci) - Provider for Signal Sciences.
 - [terraform-provider-snowflake](https://github.com/chanzuckerberg/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
 - [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://www.spinnaker.io/).
 - [terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
@@ -233,6 +237,7 @@ This section lists commonly used and interesting Terraform providers. Additional
 - [terraform-provider-ucloud](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 - [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
 - [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
+- [terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
 ## Community Modules
 
@@ -299,10 +304,12 @@ For more modules not listed here, please see the [Terraform Module Registry](htt
 - [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
 - [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 - [atmos](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
+- [aws2tf](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 - [aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
 - [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 - [Cloudrail](https://github.com/indeni/cloudrail-demo) - Terraform and Live Cloud context-based analysis tool for terraform>=0.12 :heavy_dollar_sign:
+- [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [flora](https://github.com/ketchoop/flora) - Terraform version manager.
 - [fogg](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
@@ -319,7 +326,9 @@ For more modules not listed here, please see the [Terraform Module Registry](htt
 - [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
 - [modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform.
 - [para](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
+- [pluralith](https://www.pluralith.com/) - Terraform state visualization and automated generation of infrastructure documentation. :heavy_dollar_sign:
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (auto-format, validate, update docs).
+- [pike](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
 - [pretf](https://github.com/raymondbutcher/pretf) - drop-in Terraform wrapper that generates Terraform configuration with Python. See [pretf documentation](https://pretf.readthedocs.io/en/latest/)
 - [prettyplan](https://github.com/chrislewisdev/prettyplan) - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
 - [python-terrafile](https://github.com/claranet/python-terrafile) - Systematically manage external modules from Github for use in Terraform.
@@ -365,7 +374,8 @@ For more modules not listed here, please see the [Terraform Module Registry](htt
 - [terraspace](https://terraspace.cloud) - The Terraform Framework
 - [terrastate](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
 - [terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
-- [tf-init-booster](https://github.com/hayorov/terraform-init-booster) A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
+- [tf-init-booster](https://github.com/hayorov/terraform-init-booster) - A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
+- [tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
 - [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
 - [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
 - [tfedit](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
@@ -394,7 +404,7 @@ For more modules not listed here, please see the [Terraform Module Registry](htt
 - [tfe-state-explorer](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 - [Brainboard](https://www.brainboard.co) - Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure
 - [env0](https://env0.com) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy_dollar_sign:
-- [Scalr](https://scalr.com) - Alternative to Terraform Enterprise with OPA integration :heavy_dollar_sign:
+- [Scalr](https://scalr.com) - Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting. :heavy_dollar_sign:
 - [Spacelift](https://spacelift.io/) - Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform :heavy_dollar_sign:
 - [Terrakube](https://terrakube.org) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces and visual states.
 
