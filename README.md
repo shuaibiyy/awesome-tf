@@ -275,6 +275,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Tools
 
+- [AIaC](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AirIAM is a tool for AWS IAM to least privilege Terraform execution framework.
 - [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Autogenerate Terraform modules, customize configurations through PRs. Support for app deployments on Kubernetes and Lambda environments.
 - [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
