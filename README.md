@@ -399,6 +399,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Terrakube](https://terrakube.org) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces and visual states.
 - [Spacelift](https://spacelift.io/) - Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform :heavy_dollar_sign:
 - [Terrateam](https://terrateam.io) - Terraform GitOps with cost estimation, static analysis, access controls, drift detection, and custom workflows. :heavy_dollar_sign:
+- [Digger](https://digger.dev) - Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI. 
 
 ## Videos
 
