@@ -284,7 +284,6 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
 - [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
-- [Cloudrail](https://github.com/indeni/cloudrail-demo) - Terraform and Live Cloud context-based analysis tool for terraform>=0.12 :heavy_dollar_sign:
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
 - [flora](https://github.com/ketchoop/flora) - Terraform version manager.
@@ -407,7 +406,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Terrakube](https://terrakube.org) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states.
 - [Spacelift](https://spacelift.io/) - Alternative to Terraform Cloud/Enterprise. Collaborative Infrastructure Delivery Platform for Terraform :heavy_dollar_sign:
 - [Terrateam](https://terrateam.io) - Terraform GitOps with cost estimation, static analysis, access controls, drift detection, and custom workflows. :heavy_dollar_sign:
-- [Digger](https://digger.dev) - Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI. 
+- [Digger](https://digger.dev) - Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI.
 
 ## Videos
 
