@@ -226,6 +226,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ### Vendor supported providers
 
 - [terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) - Provider for Alibaba Cloud.
+- [terraform-provider-artifactory](https://github.com/jfrog/terraform-provider-artifactory) - Provider for [JFrog Artifactory](https://jfrog.com/artifactory/).
 - [terraform-provider-atlas](https://github.com/ariga/terraform-provider-atlas) - Provider for [Atlas](https://atlasgo.io/).
 - [terraform-provider-azapi](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
 - [terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
