@@ -205,7 +205,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tapir](https://github.com/PacoVK/tapir) - Modular Private Terraform Registry platform with provider and modules support. Provides powerful UI generates security metrics, dependency visualization, and autogenerates documentation.
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
 - [terraform-registry](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
-- [terrareg](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import
+- [Terrareg](https://github.com/matthewjohn/terrareg) - Private Terraform module registry with UI and git-backed indexing/import, cost estimation, security analysis, resource graphing, APIs and single-sign on
 
 ## Private Provider Registries
 
