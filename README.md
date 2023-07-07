@@ -365,6 +365,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfedit](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 - [tfsec](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
+- [tfgpt](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
 - [tfjson](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
 - [tflint](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [tfmask](https://github.com/cloudposse/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
