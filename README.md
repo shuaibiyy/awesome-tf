@@ -79,6 +79,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action)
 - [Terraform: Up & Running, 3rd ed.](https://www.terraformupandrunning.com/)
 - [The Terraform Book](https://terraformbook.com/)
+- [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
 
 ## Tutorials and Blog Posts
 
