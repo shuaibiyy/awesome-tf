@@ -42,6 +42,10 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - Abandoned :skull:
 - Monetized :heavy_dollar_sign:
 
+## Terraform forks
+
+- [open-terraform](https://github.com/diggerhq/open-terraform)
+
 ## Official Resources
 
 - [Hashicorp Terraform Blog](https://www.hashicorp.com/blog/products/terraform)
