@@ -271,6 +271,10 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
 - [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
 
+### Community providers
+
+- [terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
+
 ## Testing
 
 - [clarity](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
