@@ -422,6 +422,10 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [xterrafile](https://github.com/devopsmakers/xterrafile) Systematically manage external modules from the module registry, git, or local directories for use in Terraform (written in Go).
 - [yor](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
+### IDE
+
+- [vscode-terraform-live-graph](https://github.com/adamiBs/vscode-terraform-live-graph): Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
+
 ## Libraries
 
 - [nu_plugin_hcl](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell](https://github.com/nushell/nushell)
