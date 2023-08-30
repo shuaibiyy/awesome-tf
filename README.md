@@ -213,8 +213,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Private Provider Registries
 
+- [nrkno/terraform-registry](https://github.com/nrkno/terraform-registry) - A private Terraform registry with modular store backends.
 - [petra](https://github.com/devoteamgcloud/petra) - Private Terraform Registry Manager
-- [terraform-registry](https://github.com/nrkno/terraform-registry) - A private Terraform registry with modular store backends.
+- [philips-labs/terraform-registry](https://github.com/philips-labs/terraform-registry) - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
 - [terustry](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
 
 ## Providers
