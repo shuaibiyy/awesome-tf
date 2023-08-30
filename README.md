@@ -338,6 +338,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
 - [TerraDepot](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
 - [terradozer](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
+- [terraeasy](https://github.com/jaceq/terraeasy) - Easy Terraform wrapper
 - [terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
 - [terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
 - [terraform-aws-clickops-notifier](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
