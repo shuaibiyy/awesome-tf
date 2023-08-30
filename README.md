@@ -364,6 +364,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terramate](https://github.com/mineiros-io/terramate) - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
 - [terrars](https://github.com/andrewbaxter/terrars) - Terrars is a tool for building Terraform stacks in Rust. This is an alternative to the CDK.
 - [terrascan](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
+- [terrascope](https://github.com/spilliams/terrascope) - Build orchestrator for terraform monorepos.
 - [terrashine](https://isawan.github.io/terrashine/) - Terrashine is a terraform provider mirror1 implementation that works by automatically caching dependencies as providers are requested.
 - [terraspace](https://terraspace.cloud) - The Terraform Framework
 - [terrastate](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
