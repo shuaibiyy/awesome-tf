@@ -289,6 +289,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
 - [balcony](https://oguzhan-yilmaz.github.io/balcony/) - CLI tool for easy AWS API reads. Also generates Terraform import-blocks, and actual Terraform Resource code.
 - [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
+- [burrito](https://padok-team.github.io/burrito/) - Burrito is a TACoS (Terraform Automation Collaboration Software) Kubernetes Operator.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
