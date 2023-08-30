@@ -213,6 +213,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Private Provider Registries
 
+- [petra](https://github.com/devoteamgcloud/petra) - Private Terraform Registry Manager
 - [terustry](https://github.com/veepee-oss/terustry) - Open Source terraform provider registry acting as a proxy for gitlab or github releases.
 
 ## Providers
