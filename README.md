@@ -274,6 +274,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ### Community providers
 
 - [terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
+- [terraform-provider-value](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 
 ## Testing
 
