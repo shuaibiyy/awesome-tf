@@ -405,6 +405,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform providers.
 - [tfsec](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+- [tfsort](https://github.com/AlexNabokikh/tfsort) - CLI utility to sort Terraform variables and outputs.
 - [tftarget](https://github.com/future-architect/tftarget) - CLI Tool to do `terraform xxx -target={...}` interactively.
 - [tftree](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
 - [tftui](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
