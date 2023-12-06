@@ -209,6 +209,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ## Private Registries
 
 - [anthology](https://github.com/erikvanbrakel/anthology) - Private Terraform registry implementation as an alternative to the official registry.
+- [boring-registry](https://github.com/TierMobility/boring-registry) - Private Terraform Module/Provider Registry with API key authentication and blob storage support
 - [citizen](https://github.com/outsideris/citizen) - Private Terraform Module/Provider Registry
 - [nrkno/terraform-registry](https://github.com/nrkno/terraform-registry) - A private Terraform registry with modular store backends.
 - [petra](https://github.com/devoteamgcloud/petra) - Private Terraform Registry Manager
