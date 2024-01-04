@@ -397,6 +397,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
 - [tfedit](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
+- [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
 - [tfgen](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY.
 - [tfgpt](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
 - [tfjson](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
