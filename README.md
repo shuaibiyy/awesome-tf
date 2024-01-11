@@ -97,7 +97,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 - [Creating custom terraform providers](https://blog.pelo.tech/creating-custom-terraform-providers-341311823fa2) - Guide for creating custom providers.
 - [Writing a Terraform provider](https://web.archive.org/web/20220516140659/http://blog.jfabre.net/2017/01/22/writing-terraform-provider/) - Guide for creating custom providers.
-- [Writing Custom Providers](https://developer.hashicorp.com/terraform/docsextend/writing-custom-providers.html) - Official documentation for creating custom providers.
+- [Writing Custom Providers](https://developer.hashicorp.com/terraform/plugin/sdkv2) - Official documentation for creating custom providers.
 - [Terraform Provider Code generation](https://www.speakeasyapi.dev/docs/create-terraform) - Guide to generating a terraform provider from an OpenAPI specification (Vendor Supported)
 
 ### How-To
