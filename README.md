@@ -493,7 +493,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Editor Plugins
 
-- [Atom terraform-lookup](https://github.blog/2022-06-08-sunsetting-atom/)
+- [Atom terraform-lookup](https://atom.io/packages/terraform-lookup)
 - [Emacs terraform-mode](https://github.com/hcl-emacs/terraform-mode)
 - [Intellij](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
 - [Terraform-ls](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
