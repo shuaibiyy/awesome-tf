@@ -85,6 +85,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [The Terraform Book](https://terraformbook.com/)
 - [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
 - [Terraform for Ops e-book](https://www.terraformforops.com)
+- [Terraform in Depth](https://www.manning.com/books/terraform-in-depth))
 
 ## Tutorials and Blog Posts
 
