@@ -85,7 +85,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [The Terraform Book](https://terraformbook.com/)
 - [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
 - [Terraform for Ops e-book](https://www.terraformforops.com)
-- [Terraform in Depth](https://www.manning.com/books/terraform-in-depth))
+- [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
 
 ## Tutorials and Blog Posts
 
@@ -136,6 +136,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Managing AWS Lambda Functions with Terraform](https://spacelift.io/blog/terraform-aws-lambda) - What is AWS Lambda used for and how to use Terraform to manage AWS Lambda functions?
 
 ### Google Cloud
+
 - [Managing infrastructure as code with Terraform, Cloud Build, and GitOps](https://cloud.google.com/docs/terraform/resource-management/managing-infrastructure-as-code) - Setup and manage infrastructure as code with Terraform, Cloud Build, and GitOps.
 - [Getting started with Terraform on Google Cloud](https://cloud.google.com/docs/terraform/get-started-with-terraform) - Using Terraform to create a VM in Google Cloud and Starting a basic Python Flask server.
 - [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/course_templates/746) - Deploy Kubernetes Load Balancer Service with Terraform, HTTPS Content-Based Load Balancer with Terraform, Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform, Building a VPN Between Google Cloud and AWS with Terraform.
