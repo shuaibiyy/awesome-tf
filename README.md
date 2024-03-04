@@ -22,7 +22,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
   - [Google Cloud](#google-cloud)
   - [Miscellaneous](#miscellaneous)
 - [Community Modules](#community-modules)
-- [Self-hosted Registries](#self-hosted-registries)
+- [Self-Hosted Registries](#self-hosted-registries)
 - [Managed Registries](#managed-registries)
 - [Providers](#providers)
   - [Hashicorp supported providers](#hashicorp-supported-providers)
@@ -35,7 +35,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Libraries](#libraries)
 - [Boilerplates](#boilerplates)
 - [Self-hosted Terraform Platforms](#self-hosted-terraform-platforms)
-- [Managed Terraform Platforms :heavy_dollar_sign:](#managed-terraform-platforms)
+- [Managed Terraform Platforms :heavy\_dollar\_sign:](#managed-terraform-platforms-heavy_dollar_sign)
 - [Terraform Enterprise Tooling](#terraform-enterprise-tooling)
 - [Videos](#videos)
 - [Editor Plugins](#editor-plugins)
@@ -467,7 +467,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
 - [Stack-Lifecycle-Deployment](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
 
-## Managed Terraform Platforms
+## Managed Terraform Platforms :heavy_dollar_sign:
 
 - [Scalr](https://www.scalr.com/) - Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting. :heavy_dollar_sign:
 - [env0](https://www.env0.com/) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy_dollar_sign:
