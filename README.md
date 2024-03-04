@@ -76,7 +76,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Deep-Dive Terraform on Azure](https://link.springer.com/book/10.1007/978-1-4842-7328-9)
 - [Getting Started with Terraform, 2nd ed.](https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/)
 - [HashiCorp Infrastructure Automation Certification Guide](https://www.amazon.com/HashiCorp-Infrastructure-Automation-Certification-Guide-ebook/dp/B092KM7LXC/)
-- [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
+- [IaC starting with Terraform (Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
 - [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
 - [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices)
