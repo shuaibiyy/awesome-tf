@@ -316,6 +316,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [cfnctl](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
+- [cf-terraforming](https://github.com/cloudflare/cf-terraforming) A command line utility to facilitate terraforming your existing Cloudflare resources.
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift
 - [dxw/terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
