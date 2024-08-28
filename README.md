@@ -292,6 +292,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-terracurl](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 - [terraform-provider-value](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 - [terraform-provider-uname](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
+- [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
 
 ## Testing
 
