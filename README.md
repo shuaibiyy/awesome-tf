@@ -363,7 +363,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 - [stacks](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
 - [Styra Declarative Authorization Service (DAS)](https://www.styra.com/terraform-cloud-config-management-with-styra-das-and-open-policy-agent) - Provides a managed [Open Policy Agent (OPA)](https://www.openpolicyagent.org) platform for Application and Infrastructure use cases, including Terraform, Terraform Cloud, and Kubernetes. Enforce policy guardrails during development, in CI/CD pipelines, and at deploy time. Styra DAS Free provides multiple systems and users, policy impact analysis, decision logging and replay, and access to Styra's Terraform policy library.
-- [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
+- [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices. :skull:
 - [tau](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies, and secrets.
 - [terraboard](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
 - [terraboot](https://github.com/MastodonC/terraboot) - DSL to generate a terraform configuration and run it.
