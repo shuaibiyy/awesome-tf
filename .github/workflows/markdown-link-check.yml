@@ -6,8 +6,8 @@ jobs:
   check:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
       # upstream issue, https://github.com/tcort/markdown-link-check/issues/196
-      - uses: gaurav-nelson/github-action-markdown-link-check@1.0.15
+      - uses: gaurav-nelson/github-action-markdown-link-check@d53a906aa6b22b8979d33bc86170567e619495ec # 1.0.15
         with:
           config-file: '.github/workflows/markdown.links.config.json'

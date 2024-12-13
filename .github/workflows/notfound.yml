@@ -9,8 +9,8 @@ jobs:
   check:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
       - name: Fix links
-        uses: tmcw/notfoundbot@v2.3.1
+        uses: tmcw/notfoundbot@f91be597e4a7e2a182788b1c5ffdc460df3195ea # v2.3.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
