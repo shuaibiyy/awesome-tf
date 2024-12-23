@@ -426,6 +426,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfmask](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps.
 - [tfmigrator](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
+- [tfmv](https://github.com/suzuki-shunsuke/tfmv) - Rename Terraform resources and generate moved blocks
 - [tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) - CLI to prevent malicious Terraform Providers from being executed
 - [tfocus](https://github.com/nwiizo/tfocus) - tfocus is a super interactive tool for selecting and executing Terraform plan/apply on specific resources. Think of it as an "emergency tool" - not for everyday use.
 - [tfproviderlint](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
