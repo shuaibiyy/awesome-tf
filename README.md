@@ -448,6 +448,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfvaultenv](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 - [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely.
 - [tgf](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
+- [threatcl](https://github.com/threatcl/threatcl) - Documenting your Threat Models with HCL
 - [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
 - [tpm](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 - [travelgrunt](https://github.com/ivanilves/travelgrunt) - cd inside [mono]repos without fatigue!
