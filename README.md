@@ -330,6 +330,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [fuzzy-terraform-rm](https://github.com/paololazzari/fuzzy-terraform-rm) - A fuzzy-finder command-line tool for removing resources from terraform state.
 - [gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:
 - [hatchet](https://github.com/hatchet-dev/hatchet-v1-archived) - An all-in-one Terraform management tool. :skull:
+- [hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json.
 - [hcldump](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
 - [hcledit](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 - [hclgrep](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
