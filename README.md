@@ -538,8 +538,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Intellij](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
 - [Terraform-ls](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 - [Terraform-lsp](https://github.com/juliosueiras/terraform-lsp) (Language Server Protocol for Terraform)
-- [Vim-Terraform](https://github.com/hashivim/vim-terraform)
+- [vim-hcl](https://github.com/jvirtanen/vim-hcl) - Syntax highlighting for HCL
 - [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
+- [Vim-Terraform](https://github.com/hashivim/vim-terraform)
 - [VS Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 
 ## License
