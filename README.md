@@ -450,6 +450,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfvar](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
 - [tfvaultenv](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 - [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely.
+- [tfmcp](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
 - [tgf](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
 - [threatcl](https://github.com/threatcl/threatcl) - Documenting your Threat Models with HCL
 - [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
