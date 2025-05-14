@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shuaibiyy-awesome-tf-badge.png)](https://mseep.ai/app/shuaibiyy-awesome-tf)
+
 # Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
 > A curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
