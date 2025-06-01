@@ -88,6 +88,9 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform: Up & Running, 3rd ed.](https://www.terraformupandrunning.com/)
 - [The Terraform Book](https://terraformbook.com/)
 
+## Learning and Studying
+- Terraform Academy - (https://www.terraformacademy.com)
+
 ## Tutorials and Blog Posts
 
 ### Beginner Guides
