@@ -1,0 +1,24 @@
+# Lychee link checker configuration
+
+# Maximum number of retries per link
+max_retries = 3
+
+# Wait time between retries (in seconds)
+retry_wait_time = 5
+
+# Maximum number of concurrent network requests
+max_concurrency = 10
+
+# Accept 429 status codes (rate limiting) as valid after retries
+# This prevents CI failures due to temporary rate limits
+accept = [200, 204, 206, 429]
+
+# Alternative: Exclude hashicorp.com if rate limiting persists
+# Uncomment the line below if you want to skip hashicorp.com checks entirely
+# exclude = ['https://www\.hashicorp\.com/.*']
+
+# Cache results to avoid repeated checks
+cache = true
+
+# Use a custom user agent to be more identifiable
+user_agent = "awesome-tf link checker (https://github.com/shuaibiyy/awesome-tf)"
