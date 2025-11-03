@@ -54,8 +54,8 @@ Terraform enables you to safely and predictably create, change, and improve prod
 ## Official Resources
 
 - [Hashicorp Terraform Blog](https://web.archive.org/web/20241219232422/https://www.hashicorp.com/blog/products/terraform)
-- [Introduction to Terraform](https://developer.hashicorp.com/terraform/intro)
-- [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
+- [Introduction to Terraform](https://web.archive.org/web/20251001030259/https://developer.hashicorp.com/terraform/intro)
+- [Terraform Documentation](https://web.archive.org/web/20251003045432/https://developer.hashicorp.com/terraform/docs)
 - [Terraform learn](https://developer.hashicorp.com/terraform/tutorials)
 
 ## Community
@@ -110,7 +110,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 - [Creating custom terraform providers](https://blog.pelo.tech/creating-custom-terraform-providers-341311823fa2) - Guide for creating custom providers.
 - [Writing a Terraform provider](https://web.archive.org/web/20220516140659/http://blog.jfabre.net/2017/01/22/writing-terraform-provider/) - Guide for creating custom providers.
-- [Writing Custom Providers](https://developer.hashicorp.com/terraform/plugin/sdkv2) - Official documentation for creating custom providers.
+- [Writing Custom Providers](https://web.archive.org/web/20250812150756/https://developer.hashicorp.com/terraform/plugin/sdkv2) - Official documentation for creating custom providers.
 - [Terraform Provider Code generation](https://www.speakeasyapi.dev/docs/create-terraform) - Guide to generating a terraform provider from an OpenAPI specification (Vendor Supported)
 
 ### How-To
