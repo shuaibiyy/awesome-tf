@@ -13,6 +13,12 @@ max_concurrency = 10
 # This prevents CI failures due to temporary rate limits
 accept = [200, 204, 206, 429]
 
+# Exclude flaky or bot-blocked hosts while keeping links in README
+exclude = [
+  "^https://web\\.archive\\.org/.*",
+  "^https://(betterprogramming\\.pub|blog\\.pelo\\.tech|medium\\.com)/.*",
+]
+
 # Alternative: Exclude hashicorp.com if rate limiting persists
 # Uncomment the line below if you want to skip hashicorp.com checks entirely
 # exclude = ['https://www\.hashicorp\.com/.*']
