@@ -24,4 +24,4 @@ jobs:
           content-folder: '.'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EXCEPTIONS: github.com developer.hashicorp.com www.hashicorp.com
+          EXCEPTIONS: github.com developer.hashicorp.com www.hashicorp.com medium.com blog.pelo.tech
