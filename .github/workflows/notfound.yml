@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0
 
       - name: Fix links
-        uses: tmcw/notfoundbot@f91be597e4a7e2a182788b1c5ffdc460df3195ea # v2.3.1
+        uses: tmcw/notfoundbot@1f97e4c79fa3aeaa9b2b87b8cd2533f645fed82d # v3.0.0
         continue-on-error: true
         with:
           content-folder: '.'
