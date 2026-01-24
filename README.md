@@ -62,7 +62,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 ## Community
 
 - [weekly.tf - Terraform Weekly Newsletter](https://www.weekly.tf/) - Various news in the Terraform world (projects, announcements, discussions).
-- [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf)
+- [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf) :skull:
 - [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository](https://github.com/terraform-aws-modules/meta)
 - [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 - [Terraform Community Modules](https://github.com/terraform-community-modules)
@@ -71,7 +71,8 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform Provider/Module Registry](https://registry.terraform.io/)
 - [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 - [Terraform Roadmap](https://roadmap.sh/terraform)
-- [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
+- [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) :skull:
+- [The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns](https://github.com/antonbabenko/terraform-skill) - Get instant guidance on testing strategies, module patterns, CI/CD workflows, and production-ready infrastructure code.
 - Language-specific communities:
   - [Telegram (Ukrainian speak community)](https://t.me/terraform_ukraine)
 
