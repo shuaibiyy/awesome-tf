@@ -126,7 +126,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](https://web.archive.org/web/20170611135511/http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - Illustrates how easy it is to use the OpenStack Terraform provider to deploy a web server.
 - [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/en/blog/zero-downtime-updates-with-terraform) - Ensuring zero downtime of your infrastructure.
 - [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
-- [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?sk=495131c5831bc9276369150da5f3bc2c) - How to use Infracost as the guardrail to manage cloud cost during Terraform development.
+- [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://medium.com/better-programming/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834) - How to use Infracost as the guardrail to manage cloud cost during Terraform development.
 - [How To Wrap Your Terraform Provider for Pulumi](https://www.speakeasyapi.dev/post/pulumi-terraform-provider) - Making your terraform provider pulumi-ready
 
 ### Multi-Environment Configuration
