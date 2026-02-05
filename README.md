@@ -92,7 +92,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action)
 - [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
 - [Terraform: Up & Running, 3rd ed.](https://www.terraformupandrunning.com/)
-- [The Terraform Book](https://terraformbook.com/)
+- [The Terraform Book](https://web.archive.org/web/20260101084120/https://terraformbook.com/)
 
 ## Learning and Studying
 - Terraform Academy - (https://www.terraformacademy.com)
