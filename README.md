@@ -478,6 +478,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [yor](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 - [zephy](https://github.com/henrybravo/zephy) - Compare Azure resources deployed in a subscription against resources managed by Terraform Enterprise (HCP & Selfhosted) workspaces *when your cloud's resource tagging strategy is insufficient*.
+- [terrachat](https://terrachat.io) - AI-powered Terraform tool that converts natural language descriptions into production-ready AWS infrastructure with built-in cost analysis, security assessment, and state hosting.
 
 ### CI
 
