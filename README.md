@@ -378,6 +378,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [renovate-config](https://github.com/SpotOnInc/renovate-config) - Sharable Config Presets for Renovatebot, especially useful for DevOps folks.
 - [rover](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
 - [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - Simple Ruby wrapper for invoking terraform commands.
+- [ReleaseRun Terraform Provider Matrix](https://releaserun.com/tools/terraform-provider-matrix/) - Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.
 - [sato](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
 - [scenery](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier. :ghost: :skull:
 - [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
