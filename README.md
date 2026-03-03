@@ -363,6 +363,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [layerform](https://github.com/briefercloud/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments. :skull:
 - [library.tf](https://library.tf) - Library.tf is built and designed to not just provide you with all of the registry information for Terraform and OpenTofu but to provide all of the insights you need to make decisions. Quickly find modules or providers that are supported and maintained and not full of bugs.
 - [modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform.
+- [ops0](https://ops0.com) - AI Infrastructure Operator. Discover cloud resources and auto-generate Terraform, write IaC from plain English, monitor Kubernetes, enforce policies, automate workflows.
 - [para](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "Swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
 - [pike](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
 - [pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI
