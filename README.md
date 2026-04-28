@@ -495,7 +495,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 - [setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [terraform-plan](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
-- [terraform-risk-accessor](https://github.com/Liam-Johnston/terraform-risk-accessor) - GitHub Action that analyzes Terraform plan changes with AI and comments a risk assessment on pull requests.
+- [terraform-risk-assessor](https://github.com/Liam-Johnston/terraform-risk-assessor) - GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.
 
 ### IDE
 
