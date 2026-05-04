@@ -447,6 +447,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tf-init-booster](https://github.com/hayorov/terraform-init-booster) - A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
 - [tf-profile](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
+- [tf-why](https://github.com/Raj-glitch-max/tf.why) - CLI tool that attributes Terraform drift to the AWS actor who caused it, via CloudTrail lookup.
 - [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
 - [tfautomv](https://github.com/busser/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
 - [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
