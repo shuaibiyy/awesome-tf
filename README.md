@@ -464,6 +464,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
 - [tfgen](https://github.com/0xDones/tfgen) - Terraform code generator for consistent codebase and DRY.
 - [tfgpt](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
+- [tfimport](https://github.com/coolapso/tfimport) - CLI tool to automate importing existing infrastructure innto tfstate.
 - [tfjson](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
 - [tfk8s](https://github.com/jrhouston/tfk8s) - A tool for converting Kubernetes YAML manifests to Terraform HCL
 - [tflint](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
