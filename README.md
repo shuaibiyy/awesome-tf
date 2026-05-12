@@ -17,6 +17,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Community](#community)
 - [Books](#books)
 - [Learning and Studying](#learning-and-studying)
+- [Apps](#apps)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
   - [Beginner Guides](#beginner-guides)
   - [Writing Custom Providers](#writing-custom-providers)
@@ -97,8 +98,16 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [The Terraform Book](https://terraformbook.com/)
 
 ## Learning and Studying
-- Terraform Academy - (https://www.terraformacademy.com)
+- [Terraform Academy](https://www.terraformacademy.app) - Interactive Terraform / IaC learning platform with hands-on labs, certification prep (HashiCorp, AWS, GCP, Azure, Docker, Kubernetes, GitOps), AI coaching, and progress tracking. See also the [SRE Pro Tips blog](https://www.terraformacademy.app/protips/?cat=sre-pro-tips) and the mobile/PWA apps below.
 - [compliance.tf docs](https://compliance.tf/docs/) - Free Terraform implementations of SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other compliance controls — open reference for writing compliant infrastructure code.
+
+## Apps
+
+Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
+
+- [Terraform Academy — iOS](https://apps.apple.com/us/app/terraform-academy/id6745738634) - Native iOS app for the Terraform Academy interactive learning platform. Hands-on labs, certification prep (HashiCorp, AWS, GCP, Azure, Docker, Kubernetes, GitOps), AI coaching, and progress sync across devices.
+- [Terraform Academy — Android](https://play.google.com/store/apps/details?id=com.terraformacade1.app) - Native Android app for the Terraform Academy learning platform with the same labs, cert prep, and AI coaching as the iOS and web versions.
+- [Terraform Academy — PWA / Web App](https://www.terraformacademy.app/) - Installable Progressive Web App version of Terraform Academy. Works offline, installs to home screen on any platform, and syncs progress with the mobile apps.
 
 ## Tutorials and Blog Posts
 
@@ -160,6 +169,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ### Miscellaneous
 
+- [Terraform Academy — SRE Pro Tips](https://www.terraformacademy.app/protips/?cat=sre-pro-tips) - Curated SRE-focused pro tips for Terraform / IaC: drift detection, state hygiene, blast-radius control, on-call-friendly module design, and other reliability patterns.
 - [Sharing data between Terraform configurations](https://web.archive.org/web/20230927082422/https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 - [The Segment AWS Stack](https://web.archive.org/web/20250322120753/https://segment.com/blog/the-segment-aws-stack/) - Shows the behind the scenes of the infrastructure powered by Terraform that solved [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) at [Segment](https://segment.com/).
 - [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
