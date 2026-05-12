@@ -47,7 +47,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          git diff --unified=0 --diff-filter=ACMRT HEAD^1 HEAD -- README.md > readme.diff
+          git diff --unified=0 --diff-filter=ACMRT ${{ github.event.pull_request.base.sha }} HEAD -- README.md > readme.diff
           awk '/^\+[^+]/ { sub(/^\+/, ""); print }' readme.diff \
             | grep -Eo 'https?://[^][) <>"]+' \
             | sed -E 's/[),.;:!?]+$//' \
