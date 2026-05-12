@@ -20,7 +20,8 @@ exclude = [
 ]
 
 # Alternative: Exclude hashicorp.com if rate limiting persists
-# Uncomment the line below if you want to skip hashicorp.com checks entirely
+# WARNING: uncommenting the line below REPLACES the entire exclude array above,
+# not adds to it. Add hashicorp.com as an additional entry in the array instead.
 # exclude = ['https://www\.hashicorp\.com/.*']
 
 # Cache results to avoid repeated checks

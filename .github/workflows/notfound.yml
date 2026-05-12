@@ -2,6 +2,8 @@ name: notfoundbot
 
 on:
   push:
+    branches:
+      - master
   schedule:
     - cron: "12 4 * * *"
   workflow_dispatch:

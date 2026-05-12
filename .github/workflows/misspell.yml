@@ -4,8 +4,15 @@ on:
   push:
     branches:
       - master
+    paths:
+      - '**.md'
   pull_request:
-    types: [assigned, opened, synchronize, reopened]
+    types: [opened, synchronize, reopened]
+    paths:
+      - '**.md'
+
+permissions:
+  contents: read
 
 jobs:
   misspell:
