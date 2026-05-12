@@ -25,6 +25,7 @@ exclude = [
 
 # Cache results to avoid repeated checks
 cache = true
+max_cache_age = "7d"
 
 # Use a custom user agent to be more identifiable
 user_agent = "awesome-tf link checker (https://github.com/shuaibiyy/awesome-tf)"
