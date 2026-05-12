@@ -1,0 +1,28 @@
+README.md
+  s_625ba1dcc019c7::t_54aa36dc30ccd9 544
+  s_625ba1dcc019c7::t_3a8ed3c7aeaf12 553
+  s_625ba1dcc019c7::t_5b7e17b4c8017b 346
+  s_625ba1dcc019c7::t_3dfbb1038c3d61 367-368
+  s_625ba1dcc019c7::t_e7cf57b0323f25 101
+  s_625ba1dcc019c7::t_a041792c468329 388
+  s_625ba1dcc019c7::t_8562797d58f675 499
+  s_625ba1dcc019c7::t_014fc6bc368641 136
+  s_625ba1dcc019c7::t_83818905fe19c8 416
+  s_625ba1dcc019c7::t_9b6baa11003ab5 351
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "6715ea8f465cc38e0df2eb6a1d3147a6d6f75e80",
+  "prompts": {},
+  "sessions": {
+    "s_625ba1dcc019c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d022380-c32a-4cef-8606-2a8f5f75be0f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
