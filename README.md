@@ -282,6 +282,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-coder](https://github.com/coder/terraform-provider-coder) - Provider for [Coder](https://coder.com)
 - [terraform-provider-confluent](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 - [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Provider for Datadog.
+- [terraform-provider-devhelm](https://github.com/devhelmhq/terraform-provider-devhelm) - Provider for [DevHelm](https://devhelm.io) uptime monitoring — manage monitors, alert channels, and status pages as code.
 - [terraform-provider-digitalocean](https://github.com/digitalocean/terraform-provider-digitalocean) - Provider for DigitalOcean.
 - [terraform-provider-dominos](https://github.com/nat-henderson/terraform-provider-dominos) - Provider for Dominos Pizza.
 - [terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
