@@ -1,0 +1,43 @@
+README.md
+  s_625ba1dcc019c7::t_cfb543eb906339 142
+  s_625ba1dcc019c7::t_dc7cca5f2b220a 165
+  s_625ba1dcc019c7::t_a7a4fa5a488c2f 271
+  s_625ba1dcc019c7::t_4d1518dfb75135 137
+  s_625ba1dcc019c7::t_2020a44fa49dc7 164
+  s_625ba1dcc019c7::t_92a303efd6b9b9 234
+  s_625ba1dcc019c7::t_e918132139dbea 310
+  s_625ba1dcc019c7::t_bbba079e3940d7 359
+  s_625ba1dcc019c7::t_ccda3d965a6bd2 400
+  s_625ba1dcc019c7::t_81db549bff605e 407
+  s_625ba1dcc019c7::t_0ce44e37ea6307 466
+  s_625ba1dcc019c7::t_675ec9fa4bb8c0 519
+  s_625ba1dcc019c7::t_dc105daf28ded5 239
+  s_625ba1dcc019c7::t_99a70a8b671380 382
+  s_625ba1dcc019c7::t_e5c2cd39607d9a 559
+  s_625ba1dcc019c7::t_8aa6bff8b3e71f 298
+  s_625ba1dcc019c7::t_9831e7996180de 120
+  s_625ba1dcc019c7::t_278042eb6ab601 9
+  s_625ba1dcc019c7::t_db71bc215251d3 128
+  s_625ba1dcc019c7::t_bab3de06111152 116
+  s_625ba1dcc019c7::t_511217da849319 166
+  s_625ba1dcc019c7::t_82b2ab6b12c369 351
+  s_625ba1dcc019c7::t_fac6dc39eb8f40 259
+lychee.toml
+  s_625ba1dcc019c7::t_a09be3b6d7e283 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "0b82515445dfbc62d28f1ccdb3d5abe83bad778a",
+  "prompts": {},
+  "sessions": {
+    "s_625ba1dcc019c7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9d022380-c32a-4cef-8606-2a8f5f75be0f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
