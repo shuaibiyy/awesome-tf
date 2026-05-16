@@ -63,7 +63,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 ## Community
 
 - [weekly.tf - Terraform Weekly Newsletter](https://www.weekly.tf/) - Weekly newsletter covering Terraform news, open-source projects, announcements, and discussions.
-- [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf) :skull:
+- [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf)
 - [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository](https://github.com/terraform-aws-modules/meta)
 - [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 - [Terraform Cheatsheet](https://vivid-badger-c30.notion.site/Terraform-Cheatsheet-352d7b505fb980618d5de73aa086d1d4)
@@ -71,9 +71,9 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform Twitter Community](https://twitter.com/i/communities/1501688565884928007) <!-- markdown-link-check-disable-line -->
 - [Terraform Discuss](https://discuss.hashicorp.com/c/terraform-core/27)
 - [Terraform Provider/Module Registry](https://registry.terraform.io/)
-- [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
+- [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf)
 - [Terraform Roadmap](https://roadmap.sh/terraform)
-- [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) :skull:
+- [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 - [The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns](https://github.com/antonbabenko/terraform-skill) - Claude Code skill for Terraform and OpenTofu — testing, module design, CI/CD workflows, and production patterns.
 - [awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Curated list of tools, frameworks, and resources for Terraform compliance and security.
 - Language-specific communities:
@@ -184,7 +184,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 - [nis2shield/infrastructure](https://github.com/nis2shield/infrastructure) - Terraform modules for automated NIS2 compliance and secure infrastructure deployment.
 - [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) - Rancher server on digitalocean.
-- [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS. :skull:
+- [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS.
 - [terraform-aws-account-lookup](https://github.com/be-bold/terraform-aws-account-lookup) - This Terraform module allows querying AWS accounts and outputs the accounts in various mappings or as a complete list, with the ability to apply a search filter to the account list and group the accounts by existing tags using a submodule.
 - [terraform-aws-alb](https://github.com/terraform-aws-modules/terraform-aws-alb) - Creates Application load-balancer on AWS (verified module).
 - [terraform-aws-appconfig](https://github.com/terraform-aws-modules/terraform-aws-appconfig) - Creates AWS AppConfig resources on AWS.
@@ -202,7 +202,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-aws-elb](https://github.com/terraform-aws-modules/terraform-aws-elb) - Creates Elastic load-balancer on AWS (verified module).
 - [terraform-aws-eventbridge](https://github.com/terraform-aws-modules/terraform-aws-eventbridge) - Creates EventBridge resources on AWS.
 - [terraform-aws-jenkins-ha-agents](https://github.com/neiman-marcus/terraform-aws-jenkins-ha-agents) - EC2 Based Jenkins deployment with HA (spot) agents. Runs on EFS for immutability. Fully customizable, with sensible defaults.
-- [terraform-aws-jenkins](https://github.com/cloudposse-archives/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack. :skull:
+- [terraform-aws-jenkins](https://github.com/cloudposse-archives/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack.
 - [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - Automatically Generate SSH Key Pairs (Public/Private Keys).
 - [terraform-aws-lambda-auto-package](https://github.com/nozaq/terraform-aws-lambda-auto-package) - A terraform module to define a lambda function which source files are automatically built and packaged for lambda deployment.
 - [terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform module, which builds dependencies and packages, and also creates AWS Lambda resources in countless combinations.
@@ -266,7 +266,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 - [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Provider for Amazon Web Services.
 - [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Provider for Azure.
-- [terraform-provider-docker](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker. :skull:
+- [terraform-provider-docker](https://github.com/hashicorp/terraform-provider-docker) - Provider for Docker.
 - [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Provider for Google Cloud Platform.
 - [terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) - Provider for Helm.
 - [terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) - Provider for Kubernetes.
@@ -305,17 +305,17 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-phare](https://github.com/phare/terraform-provider-phare) -  Terraform provider for [Phare](https://phare.io).
 - [terraform-provider-planetscale](https://github.com/planetscale/terraform-provider-planetscale) -  Terraform provider for [PlanetScale](https://planetscale.com) (Vitess & Postgres).
 - [terraform-provider-qovery](https://github.com/Qovery/terraform-provider-qovery) - Provider for [Qovery](https://www.qovery.com/) — manage Kubernetes deployments, environments, applications, databases, Helm charts, and Terraform services on AWS, GCP, Azure, and Scaleway.
-- [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources. :skull:
+- [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
 - [terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 - [terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
-- [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Provider for SecretHub. :skull:
+- [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Provider for SecretHub.
 - [terraform-provider-sigsci](https://github.com/signalsciences/terraform-provider-sigsci) - Provider for Signal Sciences.
 - [terraform-provider-snowflake](https://github.com/snowflakedb/terraform-provider-snowflake) - Provider for Snowflake data warehouse.
 - [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Provider for [Spinnaker](https://spinnaker.io/).
 - [terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) - Provider for spotinst.
 - [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) - Provider for Stripe.
 - [terraform-provider-ucloud](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
-- [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources. :skull:
+- [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
 - [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
 - [terraform-provider-scp](https://github.com/splunk/terraform-provider-scp) - Provider for Splunk Cloud Platform.
 
@@ -332,7 +332,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Testing
 
-- [clarity](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing. :skull:
+- [clarity](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls. :skull:
 - [rspec-terraform](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules. :skull:
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform. :skull:
