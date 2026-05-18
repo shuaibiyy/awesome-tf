@@ -358,6 +358,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift :skull:
+- [ConfigDrift](https://github.com/Coding-Dev-Tools/configdrift) - Detect configuration drift across environments (YAML, JSON, TOML, .env). Compares configs, flags drifting keys, and reports compliance violations before they cause incidents.
 - [drifthound](https://github.com/drifthoundhq/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [dxw/terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
 - [flora](https://github.com/ketchoop/flora) - Terraform version manager.
@@ -373,6 +374,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [hq](https://github.com/miller-time/hq) - command-line HCL processor
 - [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
 - [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
+- [DeployDiff](https://github.com/Coding-Dev-Tools/deploydiff) - Preview infrastructure changes with human-readable diffs, cost impact estimation, and pre-generated rollback commands before deploying. Supports Terraform plan JSON, CloudFormation change sets, and Pulumi previews.
 - [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [InfraScan](https://infrascan.soldevelo.com) - Advanced Infrastructure Auditor for cost and security analysis of Terraform, AWS, and Kubernetes.
 - [InfraSketch](https://infrasketch.cloud) - Free browser-based tool to visualize Terraform HCL and Docker Compose as architecture diagrams. Supports AWS & Azure. No signup, no credentials needed.
