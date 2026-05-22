@@ -167,6 +167,7 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 - [Managing Cloud Infrastructure with Terraform](https://www.skills.google/course_templates/746) - Deploy Kubernetes Load Balancer Service with Terraform, HTTPS Content-Based Load Balancer with Terraform, Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform, Building a VPN Between Google Cloud and AWS with Terraform.
 - [Hashicorp Terraform Tutorials for Google Cloud](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started) - Get started with Terraform on Google Cloud.
 - [IAC - Terraform and Terragrunt on Google Cloud](https://www.academeez.com/courses/terraform) - Open source MIT Licensed course about creating infrastructure on Google Cloud using Terraform/OpenTofu and Terragrunt
+- [Self-host n8n on Google Cloud Run](https://github.com/datawranglerai/self-host-n8n-on-gcr) - Terraform configuration and guide for deploying n8n workflow automation on Cloud Run with Cloud SQL, Secret Manager, and optional Queue Mode via Redis.
 
 ### Miscellaneous
 
