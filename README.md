@@ -37,7 +37,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Testing](#testing)
 - [Tools](#tools)
   - [CI](#ci)
-  - [IDE](#ide)
+  - [VS Code Extensions](#vs-code-extensions)
 - [Libraries](#libraries)
 - [Boilerplates](#boilerplates)
 - [Self-hosted Terraform Platforms](#self-hosted-terraform-platforms)
@@ -514,8 +514,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-plan](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
 - [terraform-risk-assessor](https://github.com/Liam-Johnston/terraform-risk-assessor) - GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.
 
-### IDE
+### VS Code Extensions
 
+- [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 - [vscode-terraform-live-graph](https://github.com/adamiBs/vscode-terraform-live-graph) - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
 - [tf-nav](https://marketplace.visualstudio.com/items?itemName=owenrumney.tf-nav) - Terraform Navigation Extension to created an index of resources by type of file with an easy to navigate treeview.
 
@@ -598,7 +599,6 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [vim-hcl](https://github.com/jvirtanen/vim-hcl) - Syntax highlighting for HCL
 - [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
 - [Vim-Terraform](https://github.com/hashivim/vim-terraform)
-- [VS Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 
 ## License
 
