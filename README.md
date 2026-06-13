@@ -329,6 +329,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-uname](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
 - [terraform-provider-value](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 - [terraform-provider-multipass](https://github.com/todoroff/terraform-provider-multipass) - Terraform provider for Multipass.
+- [terraform-provider-openrouter](https://github.com/cloudopsworks/terraform-provider-openrouter) - Manage OpenRouter as code: workspaces, guardrails, spend-limited API keys, and org members. Terraform + OpenTofu.
 - [terraform-provider-plancost](https://github.com/plancost/terraform-provider-plancost) - Terraform provider for Azure cost estimation and cost guardrails.
 
 ## Testing
