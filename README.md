@@ -410,6 +410,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
 - [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more](https://github.com/antonbabenko/serverless.tf).
 - [ReleaseRun Terraform Security Scanner](https://releaserun.com/tools/terraform-security/) - Free browser-based scanner for `.tf` files. Checks hardcoded credentials, open ports to 0.0.0.0/0, public S3/RDS, unencrypted storage, missing deletion_protection. A-F grade. No install required.
+- [Shieldly](https://github.com/shieldly-io/cli) - AI-powered security analysis for Terraform-generated IAM policies and CloudFormation, explaining why a permission is risky and how to fix it. Free tier, CLI and GitHub Action.
 - [Shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 - [Speakeasy](https://www.speakeasy.com/) - Generate a terraform provider from an OpenAPI specification.
 - [stacks](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
