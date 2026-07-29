@@ -544,6 +544,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Self-hosted Terraform Platforms
 
+- [Snap CD](https://github.com/schrieksoft/snapcd) - Fully-featured continuous deployment platform that facilitates modular deployments with isolated runners, dependency-aware automation, and fine-grained access control.
 - [Lynx](https://github.com/clivern/lynx) - Fast, Secure and Reliable Terraform Backend. It has a user-friendly dashboard, project and environment management, state versioning, locking and snapshots support.
 - [OTF](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 - [Terrakube](https://docs.terrakube.io) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states.
