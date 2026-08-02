@@ -472,6 +472,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
 - [tfautomv](https://github.com/busser/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
 - [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
+- [tfdrift](https://github.com/sudarshan8417/tfdrift) - Drift detection CLI for Terraform and OpenTofu with severity classification (Critical/High/Medium/Low), cost impact estimation, and Slack/PagerDuty/Teams/OpsGenie notifications.
 - [tfedit](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager inspired by rbenv.
 - [tfgen](https://github.com/0xDones/tfgen) - Terraform code generator for consistent codebase and DRY.
