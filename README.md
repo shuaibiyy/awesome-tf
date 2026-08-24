@@ -335,6 +335,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-openrouter](https://github.com/cloudopsworks/terraform-provider-openrouter) - Manage OpenRouter as code: workspaces, guardrails, spend-limited API keys, and org members. Terraform + OpenTofu.
 - [terraform-provider-plancost](https://github.com/plancost/terraform-provider-plancost) - Terraform provider for Azure cost estimation and cost guardrails.
 - [terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify.
+- [terraform-provider-appstore](https://github.com/elevenode/terraform-provider-appstore) - Terraform provider for Apple App Store Connect.
+- [terraform-provider-expo](https://github.com/elevenode/terraform-provider-expo) - Terraform provider for Expo Application Services (EAS).
 
 ## Testing
 
