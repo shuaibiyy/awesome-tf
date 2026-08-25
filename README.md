@@ -367,6 +367,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
+- [demonolith](https://github.com/schrieksoft/demonolith) - Splits up monolithic Terraform projects with `demonolith refactor` (to move the code) and `demonolith migrate` (to migrate into smaller .tfstate files).
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift :skull:
 - [drifthound](https://github.com/drifthoundhq/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [dxw/terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
