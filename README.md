@@ -339,6 +339,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
+- [devops-skills](https://github.com/anmolnagpal/devops-skills) - AI-agent review and scaffolding skills for Terraform source and `terraform plan` (remote state, provider pinning, IAM/S3/CloudTrail/flow-log/EKS-audit findings), each with a stable rule ID and fixture tests. Runs as a Claude Code, Cursor, and Codex plugin.
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift :skull:
 - [drifthound](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [dxw/terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
