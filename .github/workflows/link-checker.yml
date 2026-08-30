@@ -1,21 +1,68 @@
 name: link-checker
 
-on: push
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - README.md
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - README.md
+
+permissions:
+  contents: read
 
 jobs:
   check:
+    if: github.event_name == 'push'
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Restore lychee cache
-        uses: actions/cache@cdf6c1fa76f9f475f3d7449005a359c84ca0f306 # v5
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v5
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
       - name: Link Checker
-        uses: lycheeverse/lychee-action@a8c4c7cb88f0c7386610c35eb25108e448569cb0 # v2
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
         with:
           args: --config ./lychee.toml README.md
+
+  check-pr-diff:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+
+      - name: Extract added README links
+        id: links
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git diff --unified=0 --diff-filter=ACMRT ${{ github.event.pull_request.base.sha }} HEAD -- README.md > readme.diff
+          awk '/^\+[^+]/ { sub(/^\+/, ""); print }' readme.diff \
+            | grep -Eo 'https?://[^][) <>"]+' \
+            | sed -E 's/[),.;:!?]+$//' \
+            | sort -u > pr-links.txt || true
+
+          if [[ -s pr-links.txt ]]; then
+            echo "has_links=true" >> "$GITHUB_OUTPUT"
+            cat pr-links.txt
+          else
+            echo "has_links=false" >> "$GITHUB_OUTPUT"
+            echo "No added README links to check."
+          fi
+
+      - name: Link Checker
+        if: steps.links.outputs.has_links == 'true'
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
+        with:
+          args: --config ./lychee.toml pr-links.txt
