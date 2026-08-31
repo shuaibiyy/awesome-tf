@@ -336,7 +336,12 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-terracurl](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 - [terraform-provider-uname](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
 - [terraform-provider-value](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
-
+- [terraform-provider-multipass](https://github.com/todoroff/terraform-provider-multipass) - Terraform provider for Multipass.
+- [terraform-provider-openrouter](https://github.com/cloudopsworks/terraform-provider-openrouter) - Manage OpenRouter as code: workspaces, guardrails, spend-limited API keys, and org members. Terraform + OpenTofu.
+- [terraform-provider-plancost](https://github.com/plancost/terraform-provider-plancost) - Terraform provider for Azure cost estimation and cost guardrails.
+- [terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify.
+- [terraform-provider-appstore](https://github.com/elevenode/terraform-provider-appstore) - Terraform provider for Apple App Store Connect.
+- [terraform-provider-expo](https://github.com/elevenode/terraform-provider-expo) - Terraform provider for Expo Application Services (EAS).
 
 ## Testing
 
@@ -357,7 +362,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [atmos](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs.
 - [aws2tf](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 - [aztfexport](https://github.com/Azure/aztfexport) - A tool to bring existing Azure resources under Terraform's management.
+- [AzureNamer](https://azurenamingconventions.com/) - Generates CAF compliant names for 200+ Azure resource types and exports them as Terraform locals, with live length and character validation.
 - [balcony](https://oguzhan-yilmaz.github.io/balcony/) - CLI tool for easy AWS API reads. Also generates Terraform import-blocks, and actual Terraform Resource code.
+- [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/terraform) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/terraform).
 - [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
 - [cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources.
 - [cfnctl](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
@@ -365,6 +372,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
+- [demonolith](https://github.com/schrieksoft/demonolith) - Splits up monolithic Terraform projects with `demonolith refactor` (to move the code) and `demonolith migrate` (to migrate into smaller .tfstate files).
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift :skull:
 - [drifthound](https://github.com/drifthoundhq/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [dxw/terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
@@ -501,6 +509,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tftui](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations.
 - [tfvar](https://github.com/shihanng/tfvar) - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
+- [tfvault](https://github.com/tedilabs/tfvault) - Universal Terraform credentials helper with pluggable secret backends (OS keyring, pass/gopass, environment variables) and per-profile account isolation.
 - [tfvaultenv](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 - [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely.
 - [tfmcp](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
@@ -546,6 +555,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Self-hosted Terraform Platforms
 
+- [Snap CD](https://github.com/schrieksoft/snapcd) - Fully-featured continuous deployment platform that facilitates modular deployments with isolated runners, dependency-aware automation, and fine-grained access control.
 - [Lynx](https://github.com/clivern/lynx) - Fast, Secure and Reliable Terraform Backend. It has a user-friendly dashboard, project and environment management, state versioning, locking and snapshots support.
 - [OTF](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
 - [Terrakube](https://docs.terrakube.io) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states.
