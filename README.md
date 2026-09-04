@@ -516,7 +516,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### CI
 
-- [Cynative](https://github.com/cynative/cynative) - Read-only security research agent for AWS, GCP, Azure, Kubernetes, GitHub and GitLab.
+- [Cynative](https://github.com/cynative/cynative) - Open-source framework for security agents with live, read-only access to your infrastructure (supports AWS, GCP, Azure, self-managed Kubernetes, GitHub & GitLab).
 - [setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [terraform-plan](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
 - [terraform-risk-assessor](https://github.com/Liam-Johnston/terraform-risk-assessor) - GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.
@@ -541,15 +541,15 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 - [Solo-Engineer Stack](https://github.com/sarmakska/terraform-stack) - Single Terraform repo wiring up Vercel + Supabase + Cloudflare + DigitalOcean as the indie-SaaS platform. One `terraform apply` provisions a Next.js project, a Supabase project with env vars piped to Vercel, a Cloudflare zone with R2 and Workers KV, and a DigitalOcean droplet with monitoring.
 - [Terraform Generator](https://github.com/sudokar/generator-tf-module) - Scaffolding for a new terraform module or project with support of test frameworks (terratest and kitchen-terraform)
-- [Terraform GitOps Framework](https://www.kubestack.com) - Everything you need to build reliable automation for AKS, EKS, and GKE Kubernetes clusters in one free and -source framework.
+- [Terraform GitOps Framework](https://www.kubestack.com) - Everything you need to build reliable automation for AKS, EKS, and GKE Kubernetes clusters in one free and open-source framework.
 
 ## Self-hosted Terraform Platforms
 
 - [Lynx](https://github.com/clivern/lynx) - Fast, Secure and Reliable Terraform Backend. It has a user-friendly dashboard, project and environment management, state versioning, locking and snapshots support.
-- [OTF](https://github.com/leg100/otf) -  Terraforming Framework, an  source alternative to Terraform Enterprise with full Terraform CLI integration.
-- [Terrakube](https://docs.terrakube.io) -  Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states.
-- [Digger](https://digger.dev) -  Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI.
-- [cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) -  Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
+- [OTF](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+- [Terrakube](https://docs.terrakube.io) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states.
+- [Digger](https://digger.dev) - Open Source Alternative to Terraform Cloud - Run Terraform plan & apply jobs in your CI.
+- [cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
 - [Stack-Lifecycle-Deployment](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
 - [Burrito](https://github.com/padok-team/burrito) - TACoS Kubernetes Operator - "ArgoCD for Terraform"
 - [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
