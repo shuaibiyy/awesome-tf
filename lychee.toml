@@ -9,7 +9,7 @@ retry_wait_time = 5
 # Maximum number of concurrent network requests
 max_concurrency = 10
 
-# Accept 429 status codes (rate limiting) as valid after retries
+# Accept 429 status codes (rate limiting) as valid; this does not verify the link
 # This prevents CI failures due to temporary rate limits
 accept = [200, 204, 206, 429]
 
@@ -27,6 +27,8 @@ exclude = [
 # Cache results to avoid repeated checks
 cache = true
 max_cache_age = "7d"
+# Recheck rate-limited links on the next run instead of caching them as healthy.
+cache_exclude_status = [429]
 
 # Use a custom user agent to be more identifiable
 user_agent = "awesome-tf link checker (https://github.com/shuaibiyy/awesome-tf)"
