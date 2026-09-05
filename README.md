@@ -343,6 +343,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify.
 - [terraform-provider-appstore](https://github.com/elevenode/terraform-provider-appstore) - Terraform provider for Apple App Store Connect.
 - [terraform-provider-expo](https://github.com/elevenode/terraform-provider-expo) - Terraform provider for Expo Application Services (EAS).
+- [terraform-provider-paddle](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
 
 ## Testing
 
