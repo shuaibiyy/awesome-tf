@@ -6,10 +6,14 @@ on:
       - master
     paths:
       - '**.md'
+      - '.typos.toml'
+      - '.github/workflows/misspell.yml'
   pull_request:
     types: [opened, synchronize, reopened]
     paths:
       - '**.md'
+      - '.typos.toml'
+      - '.github/workflows/misspell.yml'
 
 permissions:
   contents: read
@@ -17,9 +21,10 @@ permissions:
 jobs:
   misspell:
     runs-on: ubuntu-24.04
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
-      - name: misspell
-        uses: reviewdog/action-misspell@d6429416b12b09b4e2768307d53bef58d172e962 # v1
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Check Markdown spelling
+        uses: crate-ci/typos@d43b6c087ac471e2ea7b8af622ff15f05c0c365b # v1.50.1
         with:
-          locale: "US"
+          config: .typos.toml
