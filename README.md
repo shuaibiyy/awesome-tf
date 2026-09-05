@@ -428,6 +428,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 - [Speakeasy](https://www.speakeasy.com/) - Generate a terraform provider from an OpenAPI specification.
 - [stacks](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
+- [SyncVey](https://github.com/MR-TABATA/SyncVey) - Self-hosted AWS asset ledger with attribute-level drift detection between tfstate and live AWS state, scheduled scans, and middleware EOL alerts.
 - [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
 - [tau](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies, and secrets. :skull:
 - [tenv](https://github.com/tofuutils/tenv) - OpenTofu/Terraform/Terragrunt version manager.
