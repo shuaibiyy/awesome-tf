@@ -325,9 +325,14 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### Community providers
 
+- [terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify.
 - [terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
 - [terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for managing MinIO S3 buckets and IAM Users.
+- [terraform-provider-multipass](https://github.com/todoroff/terraform-provider-multipass) - Terraform provider for Multipass.
+- [terraform-provider-openrouter](https://github.com/cloudopsworks/terraform-provider-openrouter) - Manage OpenRouter as code: workspaces, guardrails, spend-limited API keys, and org members. Terraform + OpenTofu.
+- [terraform-provider-plancost](https://github.com/plancost/terraform-provider-plancost) - Terraform provider for Azure cost estimation and cost guardrails.
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
+- [terraform-provider-seerr](https://github.com/Josh-Archer/terraform-provider-seerr) - Terraform provider for Seerr (Overseerr/Jellyseerr).
 - [terraform-provider-terracurl](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 - [terraform-provider-uname](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
 - [terraform-provider-value](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
