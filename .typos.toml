@@ -10,3 +10,6 @@ locale = "en-us"
 aks = "aks" # Azure Kubernetes Service
 CAF = "CAF" # Azure Cloud Adoption Framework
 yor = "yor" # Infrastructure tagging tool
+
+[default.extend-identifiers]
+SyncVey = "SyncVey" # AWS asset ledger project
