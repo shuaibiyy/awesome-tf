@@ -157,6 +157,7 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 - [Learning HashiCorp Terraform](https://web.archive.org/web/20201108000713/https://www.g10s.io/hashicorp-terraform/) - Guide for Azure.
 - [New Terraform Azure Automation Resources](https://bgelens.nl/terraform-automation-resources/) - Azure Automation.
 - [Terraforming Azure PaaS](https://devkimchi.com/2019/01/21/terraforming-azure-paas/) - Deploy PaaS Resources on Azure.
+- [azure-az104](https://github.com/victorlane/azure-az104) - AZ-104 Azure Administrator study notes and hands-on Terraform examples, including a landing-zone reference architecture.
 
 ### AWS
 
@@ -307,6 +308,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-k8s](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
 - [terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 - [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
+- [terraform-provider-nxip](https://github.com/uk-sw/terraform-provider-nxip) - Provider for [nxip](https://nx-ip.com), IPAM with pool-based CIDR allocation across cloud and on-premise. :heavy_dollar_sign:
 - [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 - [terraform-provider-panos](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 - [terraform-provider-phare](https://github.com/phare/terraform-provider-phare) -  Terraform provider for [Phare](https://phare.io).
@@ -345,6 +347,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify.
 - [terraform-provider-appstore](https://github.com/elevenode/terraform-provider-appstore) - Terraform provider for Apple App Store Connect.
 - [terraform-provider-expo](https://github.com/elevenode/terraform-provider-expo) - Terraform provider for Expo Application Services (EAS).
+- [terraform-provider-paddle](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
+- [terraform-provider-seekrit](https://github.com/seekritdev/terraform-provider-seekrit) - Manage seekrit apps, environments, groups, service tokens, key grants and secrets. Write-only arguments and ephemeral resources keep secret values out of state.
 
 ## Testing
 
@@ -375,6 +379,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
+- [Cynative](https://github.com/cynative/cynative) - Open-source security agent framework for reviewing Terraform configurations and investigating live infrastructure through read-only cloud APIs.
 - [demonolith](https://github.com/schrieksoft/demonolith) - Splits up monolithic Terraform projects with `demonolith refactor` (to move the code) and `demonolith migrate` (to migrate into smaller .tfstate files).
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift :skull:
 - [drifthound](https://github.com/drifthoundhq/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
@@ -430,6 +435,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 - [Speakeasy](https://www.speakeasy.com/) - Generate a terraform provider from an OpenAPI specification.
 - [stacks](https://github.com/cisco-open/stacks) - Stacks, the Terraform code pre-processor
+- [SyncVey](https://github.com/MR-TABATA/SyncVey) - Self-hosted AWS asset ledger with attribute-level drift detection between tfstate and live AWS state, scheduled scans, and middleware EOL alerts.
 - [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
 - [tau](https://github.com/avinor/tau) - Tau is a thin wrapper on top of terraform to manage multiple deployments, dependencies, and secrets. :skull:
 - [tenv](https://github.com/tofuutils/tenv) - OpenTofu/Terraform/Terragrunt version manager.
@@ -530,6 +536,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### CI
 
+- [opentofu-updater-action](https://github.com/drumandbytes/opentofu-updater-action) - GitHub Action that keeps OpenTofu/Terraform providers, modules, Helm charts and container images up to date by opening pull requests.
 - [setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [terraform-plan](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
 - [terraform-risk-assessor](https://github.com/Liam-Johnston/terraform-risk-assessor) - GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.
