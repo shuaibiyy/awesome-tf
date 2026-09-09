@@ -15,6 +15,10 @@ accept = [200, 204, 206, 429]
 
 # Exclude flaky or bot-blocked hosts while keeping links in README
 exclude = [
+  # Verified content on 2026-09-09; Lychee receives bot-blocking 403/202 responses.
+  '^https://blog\.stephane-robert\.info/docs/infra-as-code/provisionnement/terraform/?$',
+  '^https://jfrog\.com/artifactory/?$',
+  '^https://www\.oreilly\.com/library/view/infrastructure-as-code/9781491924334/?$',
   # These pages serve valid content to curl but reject Lychee with 403 (2026-09-06).
   '^https://devopslesson\.com/playground/terraform/?$',
   '^https://devopslesson\.com/tutorials/terraform/introduction-to-terraform/?$',
