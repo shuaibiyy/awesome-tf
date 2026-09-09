@@ -1,0 +1,9 @@
+# Screening changes need owner review when repository rules require Code Owners.
+# Ordinary README submissions remain under the normal review process.
+/.github/workflows/ @shuaibiyy
+/.github/scripts/ @shuaibiyy
+/.github/CODEOWNERS @shuaibiyy
+/lychee.toml @shuaibiyy
+/.typos.toml @shuaibiyy
+/contributing.md @shuaibiyy
+/.github/pull_request_template.md @shuaibiyy
