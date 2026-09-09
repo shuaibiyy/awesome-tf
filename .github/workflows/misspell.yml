@@ -9,11 +9,7 @@ on:
       - '.typos.toml'
       - '.github/workflows/misspell.yml'
   pull_request:
-    types: [opened, synchronize, reopened]
-    paths:
-      - '**.md'
-      - '.typos.toml'
-      - '.github/workflows/misspell.yml'
+    types: [opened, synchronize, reopened, edited, ready_for_review]
 
 permissions:
   contents: read
