@@ -49,6 +49,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
+          ref: ${{ github.event.pull_request.base.sha }}
           fetch-depth: 0
           persist-credentials: false
 
@@ -60,11 +61,33 @@ jobs:
           failIfEmpty: false
           jobSummary: false
 
-      - name: Test added-link validation
-        run: python3 -m unittest discover -s .github/scripts -p 'test_*.py'
-
-      - name: Check newly introduced README links
+      # Keep PR code and tests off the enforcement runner.
+      - name: Check newly introduced README links with the base validator
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
-        run: python3 .github/scripts/check_new_links.py "$BASE_SHA" "$HEAD_SHA"
+        run: |
+          git fetch --no-tags origin "$HEAD_SHA"
+          git show "$BASE_SHA:.github/scripts/check_new_links.py" > "$RUNNER_TEMP/check_new_links.py"
+          python3 -I "$RUNNER_TEMP/check_new_links.py" "$BASE_SHA" "$HEAD_SHA"
+
+  validator-tests:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      # Development tests exercise proposed code on a separate, read-only runner.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Set up Lychee
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          lycheeVersion: v0.24.2
+          args: --version
+          failIfEmpty: false
+          jobSummary: false
+
+      - name: Test proposed added-link validation
+        run: python3 -m unittest discover -s .github/scripts -p 'test_*.py'
