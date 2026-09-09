@@ -100,7 +100,7 @@ def main():
         if os.environ.get("GITHUB_STEP_SUMMARY"):
             with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as stream:
                 stream.write(summary + "\n\n")
-                # Plain code blocks avoid rendering submitted URLs as HTML in the summary.
+                # Keep submitted URLs in annotations rather than rendering them as summary HTML.
                 if review:
                     stream.write("Review access/challenge responses and exclusions in the warning annotations.\n")
         return int(bool(failures))

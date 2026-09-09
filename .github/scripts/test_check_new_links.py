@@ -44,7 +44,7 @@ class EntrypointTests(unittest.TestCase):
             return head.encode()
         with patch("sys.argv", ["check_new_links.py", "base", "head"]), patch(
             "check_new_links.subprocess.check_output", side_effect=git_show
-        ), patch("check_new_links.check_urls") as network:
+        ), patch("check_new_links.announce"), patch("check_new_links.check_urls") as network:
             result = main()
             network.assert_not_called()
             return result
