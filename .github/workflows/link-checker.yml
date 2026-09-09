@@ -9,11 +9,7 @@ on:
       - lychee.toml
       - .github/workflows/link-checker.yml
   pull_request:
-    types: [opened, synchronize, reopened]
-    paths:
-      - README.md
-      - lychee.toml
-      - .github/workflows/link-checker.yml
+    types: [opened, synchronize, reopened, edited, ready_for_review]
 
   schedule:
     - cron: "12 4 * * *"
@@ -54,29 +50,21 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
+          persist-credentials: false
 
-      - name: Extract added README links
-        id: links
-        shell: bash
-        run: |
-          set -euo pipefail
-
-          git diff --unified=0 --diff-filter=ACMRT ${{ github.event.pull_request.base.sha }} HEAD -- README.md > readme.diff
-          awk '/^\+[^+]/ { sub(/^\+/, ""); print }' readme.diff \
-            | { grep -Eo 'https?://[^][) <>"]+' || [[ $? == 1 ]]; } \
-            | sed -E 's/[),.;:!?]+$//' \
-            | sort -u > pr-links.txt
-
-          if [[ -s pr-links.txt ]]; then
-            echo "has_links=true" >> "$GITHUB_OUTPUT"
-            cat pr-links.txt
-          else
-            echo "has_links=false" >> "$GITHUB_OUTPUT"
-            echo "No added README links to check."
-          fi
-
-      - name: Link Checker
-        if: steps.links.outputs.has_links == 'true'
+      - name: Set up Lychee
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
-          args: --config ./lychee.toml pr-links.txt
+          lycheeVersion: v0.24.2
+          args: --version
+          failIfEmpty: false
+          jobSummary: false
+
+      - name: Test added-link validation
+        run: python3 -m unittest discover -s .github/scripts -p 'test_*.py'
+
+      - name: Check newly introduced README links
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: python3 .github/scripts/check_new_links.py "$BASE_SHA" "$HEAD_SHA"
