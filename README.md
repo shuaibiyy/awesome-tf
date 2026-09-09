@@ -121,7 +121,7 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 - [Hello, world: The Fargate/Terraform tutorial I wish I had](https://section411.com/2019/07/hello-world/) - Blog post describing setting up an ECS Fargate cluster from scratch
 - [Terraform Security Guide](https://sysdig.com/blog/terraform-security-best-practices/) - Blog post describing security best practices when working with Terraform
 - [Building a SaaS API? Don't Forget Your Terraform Provider](https://www.speakeasy.com/blog/build-terraform-providers) - Why you should write a terraform provider
-- [Complete Terraform Course in French (Free)](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/introduction/) – A comprehensive and free course in French to master Terraform, from beginner to advanced usage, with hands-on examples and best practices.
+- [Complete Terraform Course in French (Free)](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/) – A comprehensive and free course in French to master Terraform, from beginner to advanced usage, with hands-on examples and best practices.
 - [Introduction to Terraform](https://devopslesson.com/tutorials/terraform/introduction-to-terraform) - Beginner-friendly guide to Terraform fundamentals — providers, resources, state, and your first apply with hands-on examples.
 
 ### Writing Custom Providers
