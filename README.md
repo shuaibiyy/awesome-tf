@@ -579,6 +579,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Stack-Lifecycle-Deployment](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
 - [Burrito](https://github.com/padok-team/burrito) - TACoS Kubernetes Operator - "ArgoCD for Terraform"
 - [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
+- [Sandbox Factory](https://github.com/ashishsinha1602/oci-sandbox-factory) - Self-service, auto-expiring sandboxes on Oracle Cloud: users describe what they need in a chat and each sandbox is built, priced and destroyed as its own Resource Manager stack.
 
 
 ## Managed Terraform Platforms :heavy_dollar_sign:
