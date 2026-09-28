@@ -464,6 +464,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
 - [terraform-operator](https://github.com/GalleyBytes/terraform-operator) - A Kubernetes CRD to handle Terraform operations.
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - Command line utility and JavaScript API for parsing stdout from `terraform plan` and converting it to JSON. :ghost:
+- [Terraform Provider Schema Guard](https://github.com/edilec/terraform-provider-schema-guard) - Compares normalized provider-schema exports against an exported configuration inventory; reports supported compatibility findings without running Terraform/OpenTofu.
 - [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
 - [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - Shared Rake tasks for managing terraform plans.
 - [terraform-repl](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
