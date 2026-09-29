@@ -365,6 +365,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Tools
 
+- [Aegis-DevOps](https://github.com/moneytool/aegis-devops) - Checks Terraform/OpenTofu plan JSON, and the commands AI coding agents run, against signed policy rules whose source and author are verified before they count. Runs as a CI step (`--exit-style ci`) or as an agent pre-execution hook.
 - [AIaC](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AirIAM is a tool for AWS IAM to least privilege Terraform execution framework.
 - [asdf](https://github.com/asdf-community/asdf-hashicorp) - HashiCorp plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager
