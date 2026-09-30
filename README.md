@@ -301,6 +301,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
 - [terraform-provider-env0](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
 - [terraform-provider-featureflip](https://github.com/canopy-labs/terraform-provider-featureflip) - Provider for [Featureflip](https://featureflip.io/) feature flags: projects, environments, flags, targeting rules, segments and SDK keys.
+- [terraform-provider-fivenines](https://github.com/Five-Nines-io/terraform-provider-fivenines) - Manage Fivenines uptime monitors, cron jobs and status pages as code.
 - [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Provider for GitHub.
 - [terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) - Provider for GitLab.
 - [terraform-provider-graphql](https://github.com/sullivtr/terraform-provider-graphql) - Provider for GraphQL queries and mutations.
