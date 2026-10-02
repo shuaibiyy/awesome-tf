@@ -389,6 +389,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift :skull:
 - [drifthound](https://github.com/drifthoundhq/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [dxw/terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
+- [ecsodus](https://github.com/moneytool/ecsodus) - Migrates AWS Copilot CLI applications to Terraform in place: generates import blocks from the deployed resources and DeletionPolicy Retain patches so the Copilot CloudFormation stacks can be deleted without deleting the infrastructure.
 - [flora](https://github.com/ketchoop/flora) - Terraform version manager.
 - [fogg](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
 - [former2](https://github.com/iann0036/former2) - Generate terraform configuration from your existing resources within your AWS account.
