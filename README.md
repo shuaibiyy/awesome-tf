@@ -381,6 +381,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [cfnctl](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
 - [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.
+- [CloudBurn](https://github.com/towardsthecloud/cloudburn) - AWS cost policy checks for Terraform and CloudFormation in CI and live AWS accounts.
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
 - [Cynative](https://github.com/cynative/cynative) - Open-source security agent framework for reviewing Terraform configurations and investigating live infrastructure through read-only cloud APIs.
