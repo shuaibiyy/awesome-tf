@@ -320,6 +320,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-qovery](https://github.com/Qovery/terraform-provider-qovery) - Provider for [Qovery](https://www.qovery.com/) — manage Kubernetes deployments, environments, applications, databases, Helm charts, and Terraform services on AWS, GCP, Azure, and Scaleway.
 - [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources. :skull:
 - [terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
+- [terraform-provider-realuptime](https://github.com/RealUptimeHQ/terraform-provider-realuptime) - Provider for [RealUptime](https://realuptime.io) uptime monitoring: manage monitors, status pages and notification channels as code ([registry](https://registry.terraform.io/providers/RealUptimeHQ/realuptime)).
 - [terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
 - [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) - Provider for SecretHub. :skull:
 - [terraform-provider-sigsci](https://github.com/signalsciences/terraform-provider-sigsci) - Provider for Signal Sciences.
