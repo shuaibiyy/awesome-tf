@@ -377,6 +377,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [balcony](https://oguzhan-yilmaz.github.io/balcony/) - CLI tool for easy AWS API reads. Also generates Terraform import-blocks, and actual Terraform Resource code.
 - [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/terraform) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/terraform).
 - [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs. :skull:
+- [c3x](https://github.com/c3xdev/c3x) - Open source cost estimation for Terraform, OpenTofu, Terragrunt and CloudFormation, in the CLI and as a pull request comment. No account or API key; works offline.
 - [cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources.
 - [cfnctl](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform static analysis tool for terraform>=0.12
