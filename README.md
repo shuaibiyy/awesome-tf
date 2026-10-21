@@ -408,6 +408,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [InfraSketch](https://infrasketch.cloud) - Free browser-based tool to visualize Terraform HCL and Docker Compose as architecture diagrams. Supports AWS & Azure. No signup, no credentials needed.
 - [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
 - [k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter.
+- [kadet-hub](https://kadet-hub.org) - Catalog of Kapitan generators, including Terraform generators for AWS, AzureRM, Google Cloud and Open Telekom Cloud, published as OCI artifacts with SBOMs.
 - [Kapitan](https://github.com/kapicorp/kapitan) - Generates Terraform/OpenTofu JSON and other infrastructure configuration from inventory-driven templates.
 - [KICS](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 - [layerform](https://github.com/briefercloud/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments. :skull:
