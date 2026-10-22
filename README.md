@@ -542,6 +542,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### CI
 
+- [neptune](https://github.com/devopsfactory-io/neptune) - Runs Terraform and OpenTofu plan and apply on pull requests in GitHub Actions, with stack locks in GCS or S3.
 - [opentofu-updater-action](https://github.com/drumandbytes/opentofu-updater-action) - GitHub Action that keeps OpenTofu/Terraform providers, modules, Helm charts and container images up to date by opening pull requests.
 - [setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [terraform-plan](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
