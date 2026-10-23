@@ -580,6 +580,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Stack-Lifecycle-Deployment](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
 - [Burrito](https://github.com/padok-team/burrito) - TACoS Kubernetes Operator - "ArgoCD for Terraform"
 - [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
+- [Stackorder](https://github.com/stackorder/stackorder) - Open-source Terraform and OpenTofu orchestrator on GitHub Actions that plans affected stacks on pull requests and applies them in dependency waves without storing state or cloud credentials on the server.
 
 
 ## Managed Terraform Platforms :heavy_dollar_sign:
