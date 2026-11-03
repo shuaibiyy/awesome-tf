@@ -354,6 +354,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-paddle](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
 - [terraform-provider-seekrit](https://github.com/seekritdev/terraform-provider-seekrit) - Manage seekrit apps, environments, groups, service tokens, key grants and secrets. Write-only arguments and ephemeral resources keep secret values out of state.
 - [terraform-provider-nemo](https://github.com/sntns/terraform-provider-nemo) - Deploys applications made of containers on Docker hosts, with Compose or Swarm, as versioned bundles built from compose files. Terraform + OpenTofu.
+- [terraform-provider-swarm](https://github.com/sntns/terraform-provider-swarm) - Inits or adopts a Docker Swarm cluster and keeps its nodes' roles, labels and availability. Terraform + OpenTofu.
 
 ## Testing
 
