@@ -353,6 +353,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-expo](https://github.com/elevenode/terraform-provider-expo) - Terraform provider for Expo Application Services (EAS).
 - [terraform-provider-paddle](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
 - [terraform-provider-seekrit](https://github.com/seekritdev/terraform-provider-seekrit) - Manage seekrit apps, environments, groups, service tokens, key grants and secrets. Write-only arguments and ephemeral resources keep secret values out of state.
+- [terraform-provider-netcup](https://github.com/hornc-greedy/terraform-provider-netcup) - Terraform provider for netcup: DNS on CCP and CloudDNS, and existing servers via the SCP REST API.
 
 ## Testing
 
