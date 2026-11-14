@@ -145,6 +145,7 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 - [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://medium.com/better-programming/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834) - How to use Infracost as the guardrail to manage cloud cost during Terraform development.
 - [How To Wrap Your Terraform Provider for Pulumi](https://www.speakeasy.com/blog/pulumi-terraform-provider) - Making your terraform provider pulumi-ready
 - [How to Build an AWS Account Vending Machine](https://medium.com/@StackGuardian/how-to-build-an-aws-account-vending-machine-by-stackguardian-f2895e35a27b) - Automated, self-service AWS account lifecycle management using Terraform stacks orchestrated by StackGuardian, with SSM-based allocation, EventBridge cleanup triggers, and Tirith policy enforcement.
+- [Terraform for Indie Hackers: Just Enough Infrastructure as Code](https://hboon.com/terraform-for-indie-hackers-just-enough-infrastructure-as-code/) - Four-file setup for one Hetzner Cloud server with cloud-init, a cloud firewall and Cloudflare DNS records, with Kamal handling app deploys.
 
 ### Multi-Environment Configuration
 
