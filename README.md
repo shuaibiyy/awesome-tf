@@ -383,6 +383,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.
 - [CloudBurn](https://github.com/towardsthecloud/cloudburn) - AWS cost policy checks for Terraform and CloudFormation in CI and live AWS accounts.
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
+- [Control Cloud](https://controlcloud.dev/en) - Live topology of multi-cloud and on-prem infrastructure with pre-deploy validation; the generated Terraform ships to your own repository and pipeline. :heavy_dollar_sign:
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
 - [Cynative](https://github.com/cynative/cynative) - Open-source security agent framework for reviewing Terraform configurations and investigating live infrastructure through read-only cloud APIs.
 - [Datadef](https://datadef.io/repo-to-diagram) - Generates architecture diagrams and docs from a Terraform repo: parses `.tf` files without running `terraform init` or reading state, draws modules as zones with per-environment counts, re-syncs daily. :heavy_dollar_sign:
