@@ -145,6 +145,7 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 - [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://medium.com/better-programming/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834) - How to use Infracost as the guardrail to manage cloud cost during Terraform development.
 - [How To Wrap Your Terraform Provider for Pulumi](https://www.speakeasy.com/blog/pulumi-terraform-provider) - Making your terraform provider pulumi-ready
 - [How to Build an AWS Account Vending Machine](https://medium.com/@StackGuardian/how-to-build-an-aws-account-vending-machine-by-stackguardian-f2895e35a27b) - Automated, self-service AWS account lifecycle management using Terraform stacks orchestrated by StackGuardian, with SSM-based allocation, EventBridge cleanup triggers, and Tirith policy enforcement.
+- [Deploy a Production AWS ECS Cluster in 15 Minutes](https://dev.to/karnajeet12/how-to-deploy-a-production-aws-ecs-cluster-in-15-minutes-with-modular-terraform) - Step-by-step guide to deploying a modular multi-AZ VPC and ECS stack with HashiCorp Terraform.
 
 ### Multi-Environment Configuration
 
@@ -249,6 +250,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-static-website-s3-cloudfront](https://github.com/sergej-brazdeikis/terraform-static-website-s3-cloudfront) - Creates static websites on AWS S3 & Cloudfront based on variables.
 - [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - Creates bastion hosts on AWS EC2.
 - [typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution with Terraform.
+- [free-aws-terraform-starter](https://github.com/karnajeet12/free-aws-terraform-starter) - Minimal multi-AZ VPC and ECS Fargate starter kit for HashiCorp Terraform 1.5+.
 
 ## Self-Hosted Registries
 
