@@ -353,6 +353,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-expo](https://github.com/elevenode/terraform-provider-expo) - Terraform provider for Expo Application Services (EAS).
 - [terraform-provider-paddle](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
 - [terraform-provider-seekrit](https://github.com/seekritdev/terraform-provider-seekrit) - Manage seekrit apps, environments, groups, service tokens, key grants and secrets. Write-only arguments and ephemeral resources keep secret values out of state.
+- [terraform-provider-nocthost](https://github.com/DanielChernov7/terraform-provider-nocthost) - Terraform provider for NoctHost: servers on Hetzner, DigitalOcean, Vultr and Linode, SSH keys and firewalls from one API and one prepaid balance. Terraform + OpenTofu. :heavy_dollar_sign:
 
 ## Testing
 
