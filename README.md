@@ -103,6 +103,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform Terminal Simulator](https://devops-daily.com/games/terraform-terminal-simulator) - Practice init, plan, and apply in a simulated terminal in the browser. Free and open source, no signup.
 - [compliance.tf docs](https://compliance.tf/docs/) - Free Terraform implementations of SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other compliance controls — open reference for writing compliant infrastructure code.
 - [DevOpsLesson Terraform Playground](https://devopslesson.com/playground/terraform) - Free browser-based Terraform simulator with guided HCL exercises and practice commands.
+- [The Work Gym Terraform course](https://theworkgym.com/terraform/) - HCL exercises and a browser terminal with a local provider for plan, apply, state, modules and import; first unit free, the rest paid.
 
 ## Apps
 
