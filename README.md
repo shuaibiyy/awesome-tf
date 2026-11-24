@@ -74,7 +74,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform Roadmap](https://roadmap.sh/terraform)
 - [The Ultimate Terraform Cheatsheet for DevOps Engineers](https://atulcodes.hashnode.dev/ultimate-terraform-cheatsheet-devops)
 - [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) :skull:
-- [The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns](https://github.com/antonbabenko/terraform-skill) - Claude Code skill for Terraform and OpenTofu - testing, module design, CI/CD workflows, and production patterns.
+- [Terraform and OpenTofu Skill for AI Agents](https://github.com/antonbabenko/terraform-skill) - Agent skill with Terraform and OpenTofu best practices for testing, module design, CI/CD workflows and production patterns. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, OpenCode, Kiro and other Agent Skills-compatible tools.
 - [awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Curated list of tools, frameworks, and resources for Terraform compliance and security.
 - Language-specific communities:
   - [Telegram (Ukrainian speak community)](https://t.me/terraform_ukraine)
@@ -385,7 +385,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [CloudBurn](https://github.com/towardsthecloud/cloudburn) - AWS cost policy checks for Terraform and CloudFormation in CI and live AWS accounts.
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
-- [ctfkit](https://github.com/compliancetf/ctfkit) - Offline analyzer for Terraform and OpenTofu configuration, plans and module manifests. Writes SARIF findings and names the compliance.tf module that closes each gap. Needs no cloud credentials. Also available as a [GitHub Action](https://github.com/compliancetf/ctfkit-action).
+- [ctfkit](https://github.com/compliancetf/ctfkit) - Offline analyzer for Terraform and OpenTofu configuration, plans and module manifests. Writes SARIF findings. Needs no cloud credentials. Also available as a [GitHub Action](https://github.com/compliancetf/ctfkit-action).
 - [Cynative](https://github.com/cynative/cynative) - Open-source security agent framework for reviewing Terraform configurations and investigating live infrastructure through read-only cloud APIs.
 - [Datadef](https://datadef.io/repo-to-diagram) - Generates architecture diagrams and docs from a Terraform repo: parses `.tf` files without running `terraform init` or reading state, draws modules as zones with per-environment counts, re-syncs daily. :heavy_dollar_sign:
 - [demonolith](https://github.com/schrieksoft/demonolith) - Splits up monolithic Terraform projects with `demonolith refactor` (to move the code) and `demonolith migrate` (to migrate into smaller .tfstate files).
