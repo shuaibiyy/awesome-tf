@@ -188,6 +188,7 @@ Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
 
 For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
+- [CloudDrove modules](https://github.com/clouddrove) - Collection of open-source Terraform modules for AWS, Azure and GCP (VPC, EKS, RDS, AKS, GKE and others), each with examples and published on the Terraform Registry.
 - [nis2shield/infrastructure](https://github.com/nis2shield/infrastructure) - Terraform modules for automated NIS2 compliance and secure infrastructure deployment.
 - [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) - Rancher server on digitalocean.
 - [segmentio/stack](https://github.com/segmentio/stack) - Configures production infrastructure with AWS, Docker, and ECS. :skull:
