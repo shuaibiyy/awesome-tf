@@ -357,6 +357,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ## Testing
 
 - [clarity](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing. :skull:
+- [HomeCloud](https://github.com/solinode/homecloud) - Self-hosted, AWS-compatible cloud in a single binary. Point the `hashicorp/aws` provider at it to apply, test and destroy AWS configurations against local containers and VMs.
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls. :skull:
 - [rspec-terraform](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules. :skull:
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform. :skull:
