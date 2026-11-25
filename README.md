@@ -103,6 +103,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform Terminal Simulator](https://devops-daily.com/games/terraform-terminal-simulator) - Practice init, plan, and apply in a simulated terminal in the browser. Free and open source, no signup.
 - [compliance.tf docs](https://compliance.tf/docs/) - Free reference that maps SOC 2, PCI DSS, HIPAA, NIST 800-53, CIS AWS and other framework controls to Terraform resource settings. Includes a [cookbook](https://compliance.tf/docs/cookbook/) of recipes for terraform-aws-modules users.
 - [DevOpsLesson Terraform Playground](https://devopslesson.com/playground/terraform) - Free browser-based Terraform simulator with guided HCL exercises and practice commands.
+- [testimea Terraform Associate practice exam](https://testimea.com/product/terraform-associate-certification-practise-exam/) - Timed practice exam for the HashiCorp Terraform Associate certification with explanations and per-domain scores. Free 5-question sample. :heavy_dollar_sign:
 
 ## Apps
 
