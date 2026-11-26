@@ -367,6 +367,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 - [AIaC](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AirIAM is a tool for AWS IAM to least privilege Terraform execution framework.
+- [AppSecD](https://dedsecops.com/product/appsecd/) - Commercial application security platform whose IaC scanning applies Terraform, CloudFormation, Helm, Ansible and Pulumi rules, with findings deduplicated into one model alongside its SAST, SCA, secrets and DAST results. :heavy_dollar_sign:
 - [asdf](https://github.com/asdf-community/asdf-hashicorp) - HashiCorp plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager
 - [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
 - [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
