@@ -290,6 +290,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-aws (compliance.tf)](https://github.com/compliancetf/terraform-provider-aws) - AWS provider for Terraform and OpenTofu by compliance.tf. Runs the unmodified `hashicorp/aws` provider and checks `aws_*` resources against compliance controls before apply. Warns by default; can fail the run in CI.
 - [terraform-provider-azapi](https://github.com/Azure/terraform-provider-azapi) - Provider for Azure Resource Manager Rest API
 - [terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Provider for Azure DevOps (VSTS).
+- [terraform-provider-buddy](https://github.com/buddy/terraform-provider-buddy) - Manages projects, pipelines, members, and variables in [Buddy](https://buddy.works), the agentic cloud.
 - [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) - Provider for Buildkite.
 - [terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 - [terraform-provider-coder](https://github.com/coder/terraform-provider-coder) - Provider for [Coder](https://coder.com)
