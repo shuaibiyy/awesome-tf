@@ -451,6 +451,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
 - [terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
 - [terracove](https://elementtech.github.io/terracove/) - Recursively test a directory tree for Terraform diffs and coverage.
+- [Terradart](https://github.com/nozomi-koborinai/terradart) - Define infrastructure in Dart, synthesize standard Terraform JSON, and plan or apply with OpenTofu or Terraform.
 - [TerraDepot](https://github.com/derBroBro/TerraDepot) - Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
 - [TerraDrift](https://github.com/niravraychura/terradrift) - Self-hosted Terraform/OpenTofu drift CLI for CI and cron (plan-based; not unmanaged-resource inventory).
 - [terradozer](https://github.com/chenrui333/terradozer) - Terraform destroy without configuration files.
